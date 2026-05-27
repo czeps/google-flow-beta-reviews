@@ -1,0 +1,35 @@
+# Node / Next.js
+node_modules/
+.next/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv-*/
+.uv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Dev artifacts
+out/manual_classifications.jsonl.bak
+out/*.tmp
+analysis/dashboard_*.png
+analysis/dashboard_*.txt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

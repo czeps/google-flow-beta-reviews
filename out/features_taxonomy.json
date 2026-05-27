@@ -1,0 +1,208 @@
+{
+  "features": [
+    {
+      "id": "video_generation_quality",
+      "name": "Video generation quality",
+      "description": "Quality, realism, fidelity, or technical issues of generated videos (motion artifacts, blurriness, glitches, etc.)",
+      "synonyms": ["video quality", "render", "motion", "blurry", "veo"]
+    },
+    {
+      "id": "image_generation_quality",
+      "name": "Image generation quality",
+      "description": "Quality of generated still images (sharpness, aesthetics, realism)",
+      "synonyms": ["image quality", "photo", "picture", "nano banana"]
+    },
+    {
+      "id": "prompt_following",
+      "name": "Prompt adherence",
+      "description": "Whether the output matches the user's text prompt instructions",
+      "synonyms": ["prompt", "follow instructions", "doesn't follow", "ignore prompt"]
+    },
+    {
+      "id": "character_consistency",
+      "name": "Character / input image consistency",
+      "description": "Whether the generated output preserves the face, character, clothing, or scene from the uploaded reference image",
+      "synonyms": ["character changes", "different person", "face", "not the same"]
+    },
+    {
+      "id": "credit_system_pricing",
+      "name": "Credits and pricing",
+      "description": "Credit consumption, running out of credits, expensive subscription, no refunds when generation fails",
+      "synonyms": ["credit", "credits", "expensive", "subscription", "free", "pay"]
+    },
+    {
+      "id": "content_moderation",
+      "name": "Content moderation / safety filters",
+      "description": "Safety filters or censorship being too restrictive, blocking legitimate prompts",
+      "synonyms": ["censor", "policy", "filter", "blocked", "violation", "restriction"]
+    },
+    {
+      "id": "app_vs_web_parity",
+      "name": "App vs web feature parity",
+      "description": "App is missing features the website has, or the website is better than the app overall",
+      "synonyms": ["web is better", "website", "browser", "desktop version"]
+    },
+    {
+      "id": "extend_video_feature",
+      "name": "Extend video / what-happens-next",
+      "description": "The removed Extend Video / 'What happens next' feature for making longer continuous videos",
+      "synonyms": ["extend", "what happens next", "continue video", "longer video"]
+    },
+    {
+      "id": "frame_to_frame_feature",
+      "name": "Frame-to-frame / start-end frames",
+      "description": "Missing start-frame / end-frame / frame-to-frame transition feature",
+      "synonyms": ["frames", "start frame", "end frame", "frame to frame"]
+    },
+    {
+      "id": "ingredients_feature",
+      "name": "Ingredients / scene composition",
+      "description": "Missing 'Ingredients' option (reference assets for image-to-video composition)",
+      "synonyms": ["ingredients", "ingridient", "scene composition", "ingredient"]
+    },
+    {
+      "id": "download_export",
+      "name": "Download and export",
+      "description": "Failures or problems downloading or exporting the generated media",
+      "synonyms": ["download", "failed to download", "export", "save", "cannot save"]
+    },
+    {
+      "id": "download_resolution",
+      "name": "Download resolution / upscaling",
+      "description": "Missing 2K / 4K / upscale options on download, low export resolution",
+      "synonyms": ["1080p", "2k", "4k", "upscale", "resolution", "hd"]
+    },
+    {
+      "id": "performance_speed",
+      "name": "Performance and speed",
+      "description": "Slow loading, lag, long render times, general performance issues",
+      "synonyms": ["slow", "lag", "loading", "takes forever", "speed"]
+    },
+    {
+      "id": "crashes_errors",
+      "name": "Crashes and errors",
+      "description": "App crashing, generic errors, 'doesn't work', failed generations",
+      "synonyms": ["crash", "error", "doesn't work", "broken", "fail"]
+    },
+    {
+      "id": "login_authentication",
+      "name": "Login / authentication",
+      "description": "Sign-in failures, getting logged out, age verification, account issues",
+      "synonyms": ["login", "sign in", "logged out", "account", "verify"]
+    },
+    {
+      "id": "regional_availability",
+      "name": "Regional availability",
+      "description": "App or features not available in the user's country / region",
+      "synonyms": ["not available", "region", "country", "Libya", "Sudan", "Nigeria"]
+    },
+    {
+      "id": "ui_ux_design",
+      "name": "UI / UX design",
+      "description": "Interface design, ease of use, navigation, confusing or clean layout",
+      "synonyms": ["interface", "ui", "ux", "design", "easy to use", "messy"]
+    },
+    {
+      "id": "model_selection",
+      "name": "Model selection",
+      "description": "Availability or choice of underlying models (Veo 3 Lite/Fast/Quality, Nano Banana, Omni Flash)",
+      "synonyms": ["veo 3", "nano banana", "omni flash", "model", "lite", "fast"]
+    },
+    {
+      "id": "watermark",
+      "name": "Watermark on output",
+      "description": "Watermark or logo appearing on generated content",
+      "synonyms": ["watermark", "logo on video"]
+    },
+    {
+      "id": "video_duration_length",
+      "name": "Video duration / length",
+      "description": "Length of generated videos, ability to make longer videos",
+      "synonyms": ["short video", "long video", "duration", "length", "panjangkan video"]
+    },
+    {
+      "id": "voice_audio_quality",
+      "name": "Voice / audio quality",
+      "description": "Quality of generated voiceovers, dialog, audio, sound effects",
+      "synonyms": ["voice", "audio", "sound", "voiceover", "robotic"]
+    },
+    {
+      "id": "language_support",
+      "name": "Language support / localization",
+      "description": "Output language issues (generating in wrong language) or UI not localized",
+      "synonyms": ["language", "english only", "portuguese", "translate"]
+    },
+    {
+      "id": "finally_mobile_companion",
+      "name": "Mobile app finally available",
+      "description": "Appreciation that a mobile companion app is now available after using the web version",
+      "synonyms": ["finally an app", "been waiting", "now I can", "on the go", "pocket"]
+    },
+    {
+      "id": "loves_concept_overall",
+      "name": "Loves the concept (generic)",
+      "description": "Generic high praise without identifying a specific feature: 'amazing', 'wonderful', 'best app'",
+      "synonyms": ["wonderful", "amazing", "legendary", "best", "love", "awesome"]
+    },
+    {
+      "id": "dislikes_concept_overall",
+      "name": "Dislikes the concept (generic)",
+      "description": "Generic dismissive criticism without identifying a specific feature: 'trash', 'useless', 'garbage'",
+      "synonyms": ["trash", "useless", "garbage", "bad", "worthless"]
+    },
+    {
+      "id": "nostalgia_for_old_version",
+      "name": "Old version was better",
+      "description": "Strong preference for a previous version of the app or web product; 'bring back the old'",
+      "synonyms": ["old version", "bring back", "before the update", "previous version", "used to be"]
+    },
+    {
+      "id": "for_content_creators",
+      "name": "Using it for content creation",
+      "description": "Explicit mention of using the app for YouTube, TikTok, Instagram, UGC, or professional content workflows",
+      "synonyms": ["content creator", "youtube", "tiktok", "ugc", "creators"]
+    },
+    {
+      "id": "for_personal_photos",
+      "name": "Animating personal photos",
+      "description": "Using the app to animate personal, family, friends, or pet photos",
+      "synonyms": ["my photos", "my family", "my friend", "personal photos", "animate photos"]
+    },
+    {
+      "id": "beta_patience",
+      "name": "Patience with beta status",
+      "description": "Forgiving attitude because the app is acknowledged to be in beta; willing to wait for improvements",
+      "synonyms": ["still beta", "still in beta", "for now", "early build", "give it time"]
+    },
+    {
+      "id": "competes_with_other_ai",
+      "name": "Comparison to competing AI tools",
+      "description": "Explicit comparison to other AI tools — Sora, Veo, Gemini, ChatGPT, Midjourney, Runway, Pika, Grok, Stable Diffusion",
+      "synonyms": ["chatgpt", "sora", "midjourney", "grok", "runway", "pika", "stable diffusion"]
+    },
+    {
+      "id": "wasted_credits_on_failures",
+      "name": "Credits wasted on failed generations",
+      "description": "Specific complaint that credits are deducted even when generation fails or output is wrong (distinct from general credit complaints)",
+      "synonyms": ["wasted credits", "deducts credits", "lose credits", "no refund", "still takes credit"]
+    },
+    {
+      "id": "wants_free_tier",
+      "name": "Wants free / unlimited access",
+      "description": "Desire for the app to remain free, be cheaper, or offer more generous free quota",
+      "synonyms": ["make it free", "should be free", "keep it free", "free for", "more credits"]
+    },
+    {
+      "id": "recommends_to_others",
+      "name": "Recommends to others",
+      "description": "Explicit recommendation to other users",
+      "synonyms": ["i recommend", "you must try", "must try", "highly recommend"]
+    },
+    {
+      "id": "not_recommended",
+      "name": "Explicitly not recommended",
+      "description": "Explicit warning not to download or try the app",
+      "synonyms": ["don't recommend", "don't download", "stay away", "waste of time"]
+    }
+  ]
+}

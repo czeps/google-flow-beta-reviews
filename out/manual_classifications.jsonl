@@ -1,0 +1,557 @@
+{"id": "d309f368-cae5-459c-9b01-2c225f71b328", "en": "Thank you, it works well and is very easy to use", "lang": "th", "f": [["ui_ux_design", 1]]}
+{"id": "390abed0-6558-45dd-b233-272d8a9f9958", "en": "worst interface and lagging and no drag drop feature and no account switch feature like gemini", "lang": "en", "f": [["ui_ux_design", -1], ["performance_speed", -1]]}
+{"id": "c46f3d44-6a93-49ff-9f22-b363129c21af", "en": "not good", "lang": "en", "f": []}
+{"id": "9afd00fc-2930-4185-a439-0b33ce4f87a1", "en": "nice", "lang": "en", "f": []}
+{"id": "37f15095-b715-4e39-b301-60b1e8abf54b", "en": "loading... won't log in", "lang": "id", "f": [["login_authentication", -1]]}
+{"id": "89cd019d-a5e9-43ee-b412-61a8e5c20c8d", "en": "cool (slang)", "lang": "es", "f": []}
+{"id": "4bd773e6-9d01-4066-b41f-3f009f5fd59d", "en": "Google ...", "lang": "en", "f": []}
+{"id": "4cd61406-5a76-4414-ab93-178a476d525a", "en": "Give me a free account", "lang": "te", "f": [["credit_system_pricing", 0], ["wants_free_tier", 0]]}
+{"id": "c35085af-ec5f-4177-84d9-df9d7250af5e", "en": "has potential.", "lang": "pt", "f": []}
+{"id": "3e09e6fb-825d-44f5-bee7-e82ce9e38fbf", "en": "The best app ever", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "a2491cbc-36f4-499e-91a1-628998d1f2a4", "en": "lags like hell when loading big projects. takes forever to load Images", "lang": "en", "f": [["performance_speed", -1]]}
+{"id": "a8f943ce-7f81-46b7-bce7-3fee4baa2c4f", "en": "Free code", "lang": "ar", "f": [["credit_system_pricing", 0]]}
+{"id": "6dc5d0d6-944f-4e7e-90fa-6d487b22bc3b", "en": "It keeps changing my character to different people, Nigerian couple to white couple. Website was better. I don't understand this, it's frustrating. I tried different times still the same result.", "lang": "en", "f": [["character_consistency", -1], ["app_vs_web_parity", -1]]}
+{"id": "b6ef9f6c-2e9c-4309-8dbd-da680d1956e6", "en": "I can't download pictures or videos from the app, I need to log in on the web to download", "lang": "en", "f": [["download_export", -1], ["app_vs_web_parity", -1]]}
+{"id": "5a10555a-5613-473a-954d-400b89654463", "en": "I normally use Google Flow on my computer, but this is very awesome now that they have the app. Even though it's a beta work in progress.", "lang": "en", "f": [["app_vs_web_parity", 1], ["finally_mobile_companion", 1]]}
+{"id": "69ff5a52-f84a-4cd4-8609-14808ded5500", "en": "Good and almost the same as on the web, but downloading the image results still has errors and fails to download media. Hopefully the next update fixes it soon.", "lang": "id", "f": [["app_vs_web_parity", 0], ["download_export", -1], ["beta_patience", 0]]}
+{"id": "9635289b-e833-4821-8147-a1b9bc673ea6", "en": "Good and helpful, but still lacking, please add a feature to extend videos", "lang": "id", "f": [["extend_video_feature", -1], ["video_duration_length", -1]]}
+{"id": "c2e99102-47fb-48a7-b914-596794474088", "en": "The program is useless, only error messages, I can't create harmless images, read your terms", "lang": "de", "f": [["crashes_errors", -1], ["content_moderation", -1]]}
+{"id": "6d023a2f-a258-475f-9a52-948a4c1fad0f", "en": "good", "lang": "en", "f": []}
+{"id": "2b12d5c3-f50b-4de1-97ec-d542dd813649", "en": "Yes you can with any photo or video you like", "lang": "es", "f": []}
+{"id": "3757dc50-fe1f-43f9-93b0-ccf9e027aaa0", "en": "There are many missing features compared to the site, but the biggest missing feature is 1080p upscale download in my perspective", "lang": "en", "f": [["app_vs_web_parity", -1], ["download_resolution", -1]]}
+{"id": "a99ccae0-b6bd-4a1a-a7d4-81ec4d301efc", "en": "😄", "lang": "en", "f": []}
+{"id": "4bb82a8c-2fea-4a37-96e4-542279d9ea4f", "en": "ok", "lang": "de", "f": []}
+{"id": "0bbbd579-a0ae-487e-9d33-19305afaae56", "en": "excellent..... Is there a word more powerful than this?", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "e48a60f4-9b70-42f0-996d-ca1a8babd02a", "en": "The app refuses to work, it says 'you've been signed out', what's the solution?", "lang": "ar", "f": [["login_authentication", -1]]}
+{"id": "2cdaad67-31e8-4764-a6bf-c431fc682a33", "en": "Thank you very much", "lang": "ar", "f": []}
+{"id": "bdb1dec3-3c8e-43c0-a202-b29d1df2f78a", "en": "this app is literally the worst app, flow web version is best for quality video, it's very bad experience", "lang": "en", "f": [["app_vs_web_parity", -1], ["video_generation_quality", -1]]}
+{"id": "3c849fba-3494-40f4-979f-adfd245823d6", "en": "Good but please make it without points or credits", "lang": "ar", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "040b8e97-8cb9-4821-8d99-65e6241655d1", "en": "the app is great and stable, I only request the download, one should be able to see if the images are downloading or are already downloaded", "lang": "en", "f": [["download_export", 0]]}
+{"id": "2db93a48-1f8f-4de4-86ef-084a519d6ec3", "en": "Looks cool, feel better.", "lang": "en", "f": []}
+{"id": "128d5c5d-c775-430c-8080-d0c7e87ab737", "en": "Excellent, here I come San Francis", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "bbf49e7a-6299-4827-a209-d78e35070013", "en": "Crashing when I upload an image and try and use that in a prompt", "lang": "en", "f": [["crashes_errors", -1]]}
+{"id": "9d6f9657-d083-453a-87b6-f0d4dca59eed", "en": "today credits weren't given, they aren't being provided, please give 50 credits", "lang": "uk", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "69be9c07-349f-4de9-ba22-ad7c735c117a", "en": "Very good", "lang": "th", "f": []}
+{"id": "984a0b06-59a0-4168-b20e-135a261e8d73", "en": "amazing tool", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "9501dd96-a21f-4e95-a882-065eb69c4885", "en": "garbage AI", "lang": "id", "f": [["dislikes_concept_overall", -1]]}
+{"id": "27988825-813d-4167-b0cf-c96369427443", "en": "Data octopus (data-hungry / privacy concern)", "lang": "de", "f": []}
+{"id": "f496effc-abdd-4ba7-8521-5ebc73c3ce2e", "en": "Very good!", "lang": "pt", "f": []}
+{"id": "d6d079a7-e42b-4305-acb4-97a98263ecbb", "en": "super app", "lang": "en", "f": []}
+{"id": "853745d2-3cef-4a65-b32f-e1bd04ff5a7f", "en": "WHAT HAPPENED TO EXTENDED TOOL ON VEO 3 LITE (10 Credits) Bruh. that was Seedance Killer. BRING IT BACK.", "lang": "en", "f": [["extend_video_feature", -1], ["model_selection", -1], ["competes_with_other_ai", 0]]}
+{"id": "18c79ae7-1534-42b9-865c-e3a4616c4beb", "en": "I couldn't find the option in the app, in the videos section, to switch from ingredients to frames", "lang": "pt", "f": [["ingredients_feature", -1], ["frame_to_frame_feature", -1]]}
+{"id": "33d6bb19-25f5-4cd9-a437-5c9fb937b26e", "en": "doesn't work", "lang": "de", "f": [["crashes_errors", -1]]}
+{"id": "55c39271-80eb-41d1-ace8-e9a690f6adf7", "en": "wonderful app!", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "e829d18f-f259-4782-92b7-2ea0c7b7977c", "en": "You people need to improve the download quality to be the same as the browser base. And many other things missing", "lang": "en", "f": [["download_export", -1], ["download_resolution", -1], ["app_vs_web_parity", -1]]}
+{"id": "6fb986b4-38dc-4032-b5da-812f87387b4b", "en": "I love this tool, I use it often on PC in Chrome, finally it has come out", "lang": "fr", "f": [["loves_concept_overall", 1]]}
+{"id": "d4b636cf-83ff-4f3f-b652-191fb042c6c1", "en": "This is a very strong app, but please support the subscription or make it cheaper. If not, everyone who downloads will delete and leave it for paid subscribers", "lang": "ar", "f": [["credit_system_pricing", -1]]}
+{"id": "61333539-0912-46bd-9320-373b8dc44537", "en": "Create clips for creativity and to share knowledge", "lang": "th", "f": []}
+{"id": "5c236256-4d6d-4cdc-9d13-7bcef10afb22", "en": "Bring back Whisk! With it there wasn't this fussiness that you can't generate THIS image", "lang": "pt", "f": [["content_moderation", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "e75c4734-6a69-43eb-8827-96477cb74bad", "en": "The app isn't a solution, it's really bad", "lang": "ar", "f": []}
+{"id": "44751a58-9a57-436f-9b63-c6dd1f229f23", "en": "A very useful application, a better description yields some truly terrific results. I would ask that it not use the Nano Banana account and generation attempts. In testing this I used them all and could not use Nano Banana for work later that day.", "lang": "en", "f": [["model_selection", -1], ["credit_system_pricing", -1]]}
+{"id": "5f329ab2-845a-401c-b5c3-70981acac950", "en": "It doesn't have the omni option to edit video like the Google Omni demo. Not worth it - it's just a Dreamina with Google's image generation 3.1, nothing special. Not even Seedance 2.0 is so bad. Also no point being Google AI Pro if generating 1 video uses up the quota and forces you to buy credits. I prefer to download generative image models like Stable Diffusion and generate them myself.", "lang": "es", "f": [["model_selection", -1], ["credit_system_pricing", -1], ["video_generation_quality", -1], ["competes_with_other_ai", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "48a863c5-d501-4c3f-8a56-9e082726bd5a", "en": "World-class app, better than GPT", "lang": "ar", "f": [["competes_with_other_ai", 1], ["loves_concept_overall", 1]]}
+{"id": "d8abaf97-d782-475a-bba3-a7e0cc3cb87e", "en": "Bad app with many issues, always fails when trying to create or edit videos, etc.", "lang": "ar", "f": [["crashes_errors", -1], ["video_generation_quality", -1]]}
+{"id": "8b0c45bf-36af-4277-9f79-92897917c5fd", "en": "the credit is too low, make the credit be 200", "lang": "en", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "1670ceff-bc74-47f5-b923-b889e234be15", "en": "✅✅👍", "lang": "en", "f": []}
+{"id": "e90e5f4c-892e-4704-9170-0ca72b39b7e2", "en": "Super amazing app", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "c0c397c8-7fff-4ae0-81f2-f8cd5d1aff7c", "en": "It doesn't return credits when video generation fails. Far disconnected from consumer rights", "lang": "pt", "f": [["credit_system_pricing", -1], ["crashes_errors", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "78af618f-0bcb-4fb3-b380-f594e16b2714", "en": "The app is excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "ff47a594-cfbd-4a1f-bf4a-a6a754e0e91d", "en": "Awesome awesome awesome", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "16e11b2a-b8d0-45ec-a488-25fc36ebd744", "en": "ok now happy, google flow app now shows avatar option", "lang": "en", "f": []}
+{"id": "50af3de2-6835-49fb-a33d-207db5efb9ef", "en": "Wow really cool bro, I've already made UGC, before/after transformation, high speed timelapse, fashion campaign. We can also make our own custom apps, in my opinion this is overpowered.", "lang": "id", "f": [["for_content_creators", 0]]}
+{"id": "e9d3d0ca-3ad5-4e48-bf78-96cf8bf91975", "en": "Easy to use, very convenient", "lang": "th", "f": [["ui_ux_design", 1]]}
+{"id": "dd2acea6-23bc-4a5b-ba7d-a924a4c46047", "en": "This is the best app that I have used. This is great. I like most because it gives daily credit. If it didn't give daily credits I would have deleted this app. But it is well. It generates images and videos smoothly. But sometimes there's a problem in Voiceover.", "lang": "en", "f": [["credit_system_pricing", 1], ["video_generation_quality", 1], ["image_generation_quality", 1], ["voice_audio_quality", -1]]}
+{"id": "cc43234c-69be-4c71-ac45-aa11df572843", "en": "I'm uninstalling, very disappointing, I edit and the result never looks like my face. What's wrong? I'll give one star for now, if it's fixed tell me", "lang": "id", "f": [["character_consistency", -1], ["beta_patience", 0]]}
+{"id": "b1270f30-3d61-43d6-b729-ee9c266af94c", "en": "Very weak compared to the website, the website is much stronger than the app. The app gives very weak results", "lang": "ar", "f": [["app_vs_web_parity", -1], ["video_generation_quality", -1]]}
+{"id": "613f61c4-1230-4010-8f9f-8856ea6be971", "en": "Cool boss", "lang": "id", "f": []}
+{"id": "03ebd333-6ca9-47ee-82e3-aa415f095524", "en": "after this recent upgrade motion has been changing the existing image visual background, it doesn't maintain the same image structure. Bring back the old system", "lang": "en", "f": [["character_consistency", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "26393dd3-6647-4969-acc1-1710f9d24811", "en": "bad", "lang": "en", "f": []}
+{"id": "52dde7b7-20f5-46b9-b68b-549c3521f3dc", "en": "useless", "lang": "en", "f": [["dislikes_concept_overall", -1]]}
+{"id": "68c5e896-ffad-4a6d-96c5-60d61ae1866b", "en": "👍", "lang": "de", "f": []}
+{"id": "c4e7267f-a911-4424-b0ca-df0035c215ec", "en": "There's no 2x upscale feature", "lang": "id", "f": [["download_resolution", -1]]}
+{"id": "034536ea-ecd2-4de7-8cdd-dd8626cca0c4", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "6e2b81a0-57c9-4c73-beb1-b6fb80b1af06", "en": "It's ridiculous. Their policy system and censorship make it impossible to create good videos. There are too many restrictions. Google really needs to change its policy and make it more user-friendly, especially for fighter videos.", "lang": "sv", "f": [["content_moderation", -1]]}
+{"id": "f08a73c9-522c-40be-a820-3f0eb5255009", "en": "Easy to use, sharp images", "lang": "th", "f": [["ui_ux_design", 1], ["image_generation_quality", 1]]}
+{"id": "7f6ff2e4-08ee-4d3e-9559-20f635fb0f74", "en": "It doesn't give an avatar option", "lang": "hi", "f": []}
+{"id": "7bd27fbd-8992-4b81-9b33-14d203590e73", "en": "every time video failed to load, even download error, worst app", "lang": "en", "f": [["download_export", -1], ["video_generation_quality", -1], ["dislikes_concept_overall", -1]]}
+{"id": "635aaf56-60b7-470c-9d87-9ea81b421cbe", "en": "The safety filter system for text, video and Thai Text-to-Speech is set too strict and lacks context. It can't distinguish between drama/social creative content vs real-life threats. The system blocks common words like legal references, sharp dialogue in plays, or investigative scene simulations. Result: content creators have a very bad experience and can't continue using the system. Please urgently improve the algorithm.", "lang": "th", "f": [["content_moderation", -1], ["for_content_creators", 0]]}
+{"id": "207380aa-f25c-4abf-98f4-3a38b875f8e9", "en": "Summary: Could not generate the video", "lang": "es", "f": [["crashes_errors", -1]]}
+{"id": "25cc8945-aed2-462e-b5ea-ae4dd265a725", "en": "doesn't work", "lang": "de", "f": [["crashes_errors", -1]]}
+{"id": "c9296882-384d-412c-8e58-957195cc92bc", "en": "credits keep running out, I don't recommend", "lang": "pl", "f": [["credit_system_pricing", -1], ["not_recommended", -1]]}
+{"id": "3c1eacc4-9429-42dd-9619-c57482b04e65", "en": "it doesn't generate all videos the way other apps do", "lang": "en", "f": [["video_generation_quality", -1], ["competes_with_other_ai", 0]]}
+{"id": "dc7fded7-a654-4300-b7fd-e6b9a718a827", "en": "App isn't nice at all", "lang": "ar", "f": []}
+{"id": "44fe9e7d-b523-49cf-8ef1-68eecfd97998", "en": "Bad", "lang": "vi", "f": []}
+{"id": "6036a3d0-42e3-44c2-9cbb-aee97578ae08", "en": "No continuous generation (what happens next) as it used to be.", "lang": "en", "f": [["extend_video_feature", -1]]}
+{"id": "df1179eb-7773-414e-8a5c-b7db343472d8", "en": "best thing, app is best, 1 time login. but the problem is that the browser is the best result instead of the app. but this is acceptable because the app is in beta. 3 months from now, the app will be better and will be the same result as in the browser.", "lang": "en", "f": [["app_vs_web_parity", -1], ["login_authentication", 1]]}
+{"id": "c9618b19-2ca0-47f6-8372-aadbf3642f35", "en": "so good", "lang": "ar", "f": []}
+{"id": "e2800465-b5c7-44fc-9170-45da2a559b71", "en": "very glitchy. Takes 1 command, refuses the next, e.g. 'make Minions' worked, 'make all minions' didn't, on the same image.", "lang": "en", "f": [["prompt_following", -1]]}
+{"id": "12b3acf5-b943-4bc1-b470-7f6fe5e8583a", "en": "please create full app like notebook LM and more. App setting is opening on Chrome.", "lang": "en", "f": []}
+{"id": "cda7bb76-b41a-413e-8c9d-9fb75790ae09", "en": "After they changed the way it edits videos it got horrible. I tried it on a video it generated for me and I was foolish enough to click 'Add clip' and it copied the part of another video it just generated. I hope it returns to the old way. Other than that the tool is very good", "lang": "pt", "f": [["ui_ux_design", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "f35930b1-1619-4d7d-b093-5131286420d8", "en": "many errors. not as good as web, Veo 3 video doesn't match the initially provided image. Changed but not as good as the old", "lang": "vi", "f": [["crashes_errors", -1], ["app_vs_web_parity", -1], ["character_consistency", -1], ["model_selection", -1]]}
+{"id": "0e960fcf-9dc1-4ece-af69-a1fd7ccd1cf4", "en": "Not supported in Libya", "lang": "ar", "f": [["regional_availability", -1]]}
+{"id": "fd43d08b-11eb-444d-8ab3-fbd1b71e5ae3", "en": "More than awesome and excellent, deserves a thousand stars", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "e03310f5-2654-4b47-8a72-8aa7d2b6cca9", "en": "creating videos works but it has a watermark stuck on", "lang": "vi", "f": [["watermark", -1]]}
+{"id": "1b88e10d-f36a-4ec3-893d-c3fccba1a972", "en": "nice", "lang": "en", "f": []}
+{"id": "4a3a9d35-0f1d-495e-9eae-5af466318ac7", "en": "So far it has been a considerably good experience. The app design is also good which makes a good experience for those who use the app. There's a point that can be improved - some bugs in videos that happen more on app than browser. Overall it has been surprising me, I'm waiting for more improvements, I'm satisfied.", "lang": "pt", "f": [["ui_ux_design", 1], ["crashes_errors", -1], ["app_vs_web_parity", -1], ["beta_patience", 0]]}
+{"id": "ae1f9bbf-4797-4971-a81e-e161d3024981", "en": "very nice application", "lang": "en", "f": []}
+{"id": "519b2e62-8bf4-459a-bbe6-44c1d2f5bcfd", "en": "credits are very few", "lang": "id", "f": [["credit_system_pricing", -1]]}
+{"id": "263b062f-e945-4748-97c7-8c66e03ae9c7", "en": "UPDATE: Expanded image ratios are now available. Pros: Smooth performance for an early build. Cons: No Upscaling on Download (currently no option to upscale images/media upon export, impacting final quality). Trashed Items: The mobile app still shows images and videos placed in the trash via the web version. This clutters the UI and causes inconsistency between platforms.", "lang": "en", "f": [["performance_speed", 1], ["download_resolution", -1], ["ui_ux_design", -1], ["beta_patience", 0]]}
+{"id": "85ddbe22-95a9-4949-9d1f-43f7da2072db", "en": "ok", "lang": "id", "f": []}
+{"id": "05d427a4-3acf-47a2-9418-d23a6d0d7947", "en": "Very smooth app and credits refresh on daily basis and you can access free Google's new model omni flash", "lang": "en", "f": [["performance_speed", 1], ["credit_system_pricing", 1], ["model_selection", 1]]}
+{"id": "e0907af3-f469-442b-8d62-f59c4966fed9", "en": "Very good, I have benefited greatly", "lang": "bn", "f": []}
+{"id": "d331f38f-8c64-4ed9-ade3-28dd4ef74635", "en": "cannot create images or videos as described in the prompt, cannot fix later because same videos are generated. paying almost 20 dollars a month is waste of my money.", "lang": "en", "f": [["prompt_following", -1], ["credit_system_pricing", -1]]}
+{"id": "6539ebd5-a951-40fe-9615-182ed2b84310", "en": "very good and I like it", "lang": "id", "f": []}
+{"id": "b43845fa-323a-4401-b946-a1a576862c25", "en": "Good", "lang": "ar", "f": []}
+{"id": "5492b2d1-ec13-4484-a607-ace833f04104", "en": "Error, Error, Error, Read FAQ, Error, Out of credits please buy credits.", "lang": "en", "f": [["crashes_errors", -1], ["credit_system_pricing", -1]]}
+{"id": "1c15ccab-8b9b-4f52-8fdf-8d72e0e2942d", "en": "surprisingly good results!", "lang": "de", "f": []}
+{"id": "d8dc10a6-41e6-4528-a4de-8b2b4938419d", "en": "bad", "lang": "ar", "f": []}
+{"id": "e5b9882c-8dc9-4a5c-a036-9d941c780115", "en": "worthless. ai still doesn't know enough about real world physics to create consistent videos.", "lang": "en", "f": [["video_generation_quality", -1]]}
+{"id": "3561d341-b58f-48b1-9de4-ef2d36a6ede3", "en": "Great features, but no roaming data UI link enabler like in Google Drive", "lang": "en", "f": []}
+{"id": "22d6ed4c-39c8-4569-a586-cab762fdcda0", "en": "Flow has now 100k downloads. So reviewing it before it goes viral. Using it for 5 days & immediately became a fan of it. Basically I am using Flow for YouTube videos.", "lang": "en", "f": [["for_content_creators", 0]]}
+{"id": "3353162e-4547-4fee-ae74-4d52e8f8a2ed", "en": "initially loved the simple interface with buttons bold and easily accessible. The enter button gives room for addition of more words rather than sending the video for generation. This seems like a lot of improvement but unfortunately, no room to extend making it impossible to generate consistent characters. Sometimes it brings up not allowed in your region. And the worst is that it does not follow your prompts. People walk through doors like ghosts, climb chairs to get out of a room. It acts crazy", "lang": "en", "f": [["ui_ux_design", -1], ["regional_availability", -1], ["prompt_following", -1], ["character_consistency", -1]]}
+{"id": "6b256b4c-dc41-419c-b746-f3f98cf42831", "en": "Bad experiment. Creates images but expectations were that it can help create images based on the source image while keeping the people intact.", "lang": "en", "f": [["character_consistency", -1]]}
+{"id": "584694d4-685e-4833-ac4a-1bd1140df9d7", "en": "Wonderful, fantastic!", "lang": "de", "f": [["loves_concept_overall", 1]]}
+{"id": "5a21b30d-b12f-4174-abf4-e34645de9eb0", "en": "good app", "lang": "es", "f": []}
+{"id": "007684d5-97b9-44c8-a9be-bd3db18632c8", "en": "cool", "lang": "en", "f": []}
+{"id": "50ac2f27-01c7-496d-9a0a-d79795a0d343", "en": "Very very good", "lang": "ar", "f": []}
+{"id": "85325f8d-c326-49af-a70f-ac3ee5db245c", "en": "impossible to sign up, you have to verify age but how, no instructions, it really sucks", "lang": "fr", "f": [["login_authentication", -1]]}
+{"id": "421ba831-75cd-4d90-bbd9-f3d53771c5a1", "en": "If generation fails it still deducts credits, very confusing", "lang": "th", "f": [["credit_system_pricing", -1], ["crashes_errors", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "b6de3b7a-3f66-4c4c-bc44-d2bf88df6028", "en": "like", "lang": "en", "f": []}
+{"id": "d8ea8495-23d1-4cb5-b6a7-e20ff433f584", "en": "not available in my country (Egypt)", "lang": "ar", "f": [["regional_availability", -1]]}
+{"id": "628a03f4-4d72-4dbb-99ae-2ae61ad44be1", "en": "You can't edit incorrectly generated video. It changes the people that should have been in the video.", "lang": "ru", "f": [["character_consistency", -1], ["video_generation_quality", -1]]}
+{"id": "43e56a13-a9b8-4017-81f5-bbdfdd3f5d51", "en": "so far so good.", "lang": "pt", "f": []}
+{"id": "235287c0-fa46-4849-83a6-5aac57509a88", "en": "Superb!", "lang": "fr", "f": []}
+{"id": "40b16ab1-807b-4d13-b056-2f6ed9c1d4ce", "en": "Not working! why ii TS deployed", "lang": "en", "f": [["crashes_errors", -1]]}
+{"id": "bc6ce467-becc-40b2-9921-8128fea2efa2", "en": "Very failed app, doesn't do anything at all. Advice: don't waste your time, use Gemini or ChatGPT", "lang": "ar", "f": [["crashes_errors", -1], ["competes_with_other_ai", -1], ["not_recommended", -1]]}
+{"id": "2d053b63-1638-49de-a26f-09950b327543", "en": "I hate this new update, the image to video can't make use of the provided image given to it. Instead it will bring out something different from what I wanted", "lang": "en", "f": [["character_consistency", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "f7cd0b48-acce-4d9f-9401-17c19984f962", "en": "Among the first people to comment", "lang": "ar", "f": []}
+{"id": "c56f9ef2-d458-4ca0-b436-b95620056c48", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "f2b4c056-38ed-4fe4-a7a6-47864e4a4ce9", "en": "this app is trusted and the best but please in Nigeria we can't pay for subscription easily with MasterCard it's always asking for dollar virtual cards which is not easy to get please work on it thanks!!!", "lang": "en", "f": [["credit_system_pricing", -1], ["regional_availability", -1]]}
+{"id": "6284dfc8-4f98-4759-b837-0ecd4f0ee336", "en": "app is pretty good, smooth, please add upscale and resolution select option", "lang": "hi", "f": [["download_resolution", -1], ["performance_speed", 1]]}
+{"id": "eb0e1b79-358b-4407-96b8-cb6afc7868d5", "en": "very good", "lang": "en", "f": []}
+{"id": "3fdacc62-a5ea-4af7-9cbc-81bbbfa980e5", "en": "not working", "lang": "en", "f": [["crashes_errors", -1]]}
+{"id": "f33dd2ba-10be-4e37-9d33-6f34c13b214c", "en": "time waste", "lang": "en", "f": []}
+{"id": "53cc4816-ee5c-4c49-8cc9-0c12132fd730", "en": "👍🙂", "lang": "en", "f": []}
+{"id": "6037ab85-c24b-445a-83a5-edaeea55adc5", "en": "Bad, everything changes weirdly, this app", "lang": "id", "f": [["character_consistency", -1]]}
+{"id": "90bb48ae-bd3e-4e88-9829-8596e09d6411", "en": "not good", "lang": "ar", "f": [["dislikes_concept_overall", -1]]}
+{"id": "f1af1c78-dc2b-4c2c-8727-30e4e5cda4a7", "en": "average", "lang": "en", "f": []}
+{"id": "0050d1e3-f9ad-4ea6-a266-7af7a3bc743a", "en": "there is no option showing to rename an image created", "lang": "en", "f": []}
+{"id": "91f3bd5f-6a7f-4c7b-8dc0-8b0d8097e470", "en": "if only the image generations were completely limitless without needing to pay", "lang": "en", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "3082c8a5-2646-4674-b930-b1f809cce23f", "en": "It's not artificial intelligence, I advise you don't download it. It doesn't give you any result from images, bad", "lang": "ar", "f": [["image_generation_quality", -1], ["not_recommended", -1]]}
+{"id": "730c69c3-dd19-426d-b1d9-9c1f933ec698", "en": "the usage is good. But it would be nice if it showed how many times you can use today, for example.", "lang": "ja", "f": [["ui_ux_design", 1], ["credit_system_pricing", 0]]}
+{"id": "0ef6a7df-d5b2-49d3-890e-718a2e883070", "en": "I've been using Flow from the browser for a while. The app compared to the web is a bit slow, it lacks optimization, and when reusing a prompt not only should the prompt appear but also the images you put with the prompt", "lang": "es", "f": [["performance_speed", -1], ["app_vs_web_parity", -1], ["ui_ux_design", -1]]}
+{"id": "cd3b2778-b885-4e40-bf76-37ac6f018777", "en": "3 stars for now, it's still beta. If it can be better than the one on the web, will give 5 stars later", "lang": "id", "f": [["app_vs_web_parity", -1], ["beta_patience", 0]]}
+{"id": "d1a5fa97-4157-4ba9-9204-a89f18a24062", "en": "gemini google app's 🙃 👍🏻", "lang": "en", "f": []}
+{"id": "86ae8466-4fa3-4605-8a93-9e144f71582f", "en": "We can't download our generated videos properly on this app and also we can't upload some photos to this.", "lang": "en", "f": [["download_export", -1]]}
+{"id": "c3cdc36a-18ef-4176-b0c6-85ba293c7735", "en": "Very good", "lang": "ar", "f": []}
+{"id": "eb5b026b-bc3a-4a11-ba4f-072b70864f92", "en": "Very good app. Video quality and clarity are excellent. It would be even better if there was a video extend option.", "lang": "hi", "f": [["video_generation_quality", 1], ["extend_video_feature", -1]]}
+{"id": "96d03e19-3332-429c-be68-17939f20d3f8", "en": "Prompt is not supported. It is not the image we upload that is created. The web is also acting crazy. It would be better if the web was the way it was before. It will only waste our credits.", "lang": "en", "f": [["prompt_following", -1], ["character_consistency", -1], ["app_vs_web_parity", -1], ["credit_system_pricing", -1]]}
+{"id": "b2f2aa15-c476-45e8-88fb-141a86963ae6", "en": "Top/Great", "lang": "sv", "f": []}
+{"id": "d9275077-8306-47aa-8f92-9ffe318cfd4a", "en": "its getting worse.", "lang": "en", "f": []}
+{"id": "e58b90a8-f1dc-492a-adad-24817a12a5ea", "en": "horrible, the app got terrible after the latest updates. Before, the tool was great because it had the simple Extend Video option which allowed continuing the story keeping the same scene and character. Now they removed that function to force this horrible system of creating separate scenes, impossible to use! AI has no consistency: you create the first scene with a Japanese character and in the next scene she's an Indian", "lang": "pt", "f": [["extend_video_feature", -1], ["ui_ux_design", -1], ["character_consistency", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "4661ebcb-a659-4b21-932f-b08e791493d9", "en": "excellent work", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "02d3fd4d-7aa1-4f9e-93a4-c42f9f07e27e", "en": "absolutely great, the only problem is the subscription, it's a bit high for India and Indian young film/content creators", "lang": "en", "f": [["credit_system_pricing", -1], ["for_content_creators", 0]]}
+{"id": "b9bfa584-c3c0-40ea-ac25-9ac2853c230b", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "3388c71b-28d5-4aa9-be3b-412e4a9d8515", "en": "Great, very easy to make clips. Thanks for the good app", "lang": "th", "f": [["ui_ux_design", 1]]}
+{"id": "01296519-697f-4927-8d4a-39559adbe5fa", "en": "awesome application i love it", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "0c07f2c0-a2cf-4a39-9f81-0878e976b38f", "en": "Very excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "205a6104-e551-4eee-82e7-d7e1202df08a", "en": "The safety filters are extremely restrictive. I am trying to create some Cyberpunk style anime characters for a SFW comic. Their outfits aren't very revealing but if a little skin is visible the safety filters automatically think the character is underage or a real person. HOW CAN AN ANIME CHARACTER BE A REAL PERSON? All my characters are over 23.", "lang": "en", "f": [["content_moderation", -1]]}
+{"id": "e2bf90be-42e4-4bad-959a-be44bc863069", "en": "Google lab version MUCH BETTER THAN THIS", "lang": "en", "f": [["app_vs_web_parity", -1]]}
+{"id": "ecad61b6-c6c5-4ad0-9a5f-b889a3569a74", "en": "app was not working", "lang": "en", "f": [["crashes_errors", -1]]}
+{"id": "bd94311a-299b-4298-b388-ba373460f03e", "en": "I love this new feature. Thanks for making me part of it", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "585623f9-76c7-4c50-abec-2259097e7d6a", "en": "I don't recommend this app to anyone. No one should download this trash app. Garbage.", "lang": "ar", "f": [["not_recommended", -1]]}
+{"id": "475aeb0c-845a-4f85-87a5-1c29c1bbd1d3", "en": "When generating videos from images the videos don't appear, this always happens after generation", "lang": "en", "f": [["video_generation_quality", -1], ["crashes_errors", -1]]}
+{"id": "ed8668b0-d35d-4a93-b84b-e0982714fb35", "en": "Wonderful experience", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "b5b06ead-c5ac-4a3f-9d6a-fc378cbbdf73", "en": "Wonderful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "78905220-9c36-48f0-95a7-d07f75164b79", "en": "good", "lang": "ar", "f": []}
+{"id": "fd7bd8b8-81d6-4b7e-9a46-f51a6ae3c17d", "en": "Under testing", "lang": "ar", "f": []}
+{"id": "9cc09d1e-78aa-4a97-9288-2a4ff9ea3df5", "en": "After trying it I found it an enjoyable, wonderful, beautiful, creative, brilliant app. Thank you for this app", "lang": "ar", "f": []}
+{"id": "0962b5a3-729f-4bbe-8d6d-fba3b74b19b6", "en": "Wonderful app", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "28399765-8c1f-4268-a6b9-90ee5514352c", "en": "I advise you, failed app", "lang": "ar", "f": [["not_recommended", -1], ["dislikes_concept_overall", -1]]}
+{"id": "c30fa57a-a1c6-46ce-8d53-c5e83eb8c1a5", "en": "Wonderful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "f592a6f3-6c21-4ee9-9e1b-50dad8e5868b", "en": "Beautiful", "lang": "ar", "f": []}
+{"id": "78264c36-7c69-467d-8208-403cbc5c6006", "en": "Legendary app, small problem: the first three designs are free then it wants a subscription. Please solve this problem, thanks", "lang": "ar", "f": [["credit_system_pricing", -1]]}
+{"id": "b8f70089-49fd-4f4f-bde1-60beedc15d24", "en": "Very bad, prompt has content but generation is far from prompt and reference photo, awful", "lang": "id", "f": [["prompt_following", -1], ["character_consistency", -1]]}
+{"id": "fe810d87-c7c5-4f7f-9479-448e498f37e7", "en": "Incredible", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "75306f2b-4f02-45b9-b64f-b81b17b28661", "en": "Bad program", "lang": "ar", "f": []}
+{"id": "92f897ee-f8d8-4c3c-b7e5-e9d8754a73c5", "en": "The program is good, but there are some important issues that need improvement. When I upload an image to the program and ask it to animate it, a different image appears next to the original image I uploaded. Please fix this problem quickly.", "lang": "ar", "f": [["character_consistency", -1]]}
+{"id": "118cc44c-8e1d-4fed-95b6-d917fac2d9e7", "en": "Legendary", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "4b8562d7-b3f6-4532-8939-1323d41226bc", "en": "It generates videos very well but I can't download it. It shows failed to download media.", "lang": "en", "f": [["download_export", -1], ["video_generation_quality", 1]]}
+{"id": "a2db21dd-c303-47ac-a085-38dd36ea711f", "en": "Wonderful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "748d027e-898e-4915-8953-19fceb0f1a93", "en": "now the app is ready to go", "lang": "en", "f": []}
+{"id": "823189dd-78c2-4f98-ad2c-792fdb4ebcc4", "en": "Fantastic app, I've been looking for one like this for months. Great work", "lang": "it", "f": [["loves_concept_overall", 1]]}
+{"id": "f87c0c33-36f2-4c69-b529-56856ffd690d", "en": "The app doesn't open after I logged in", "lang": "ar", "f": [["login_authentication", -1]]}
+{"id": "e7bb08d3-756a-4679-80cd-ed91e4441b4d", "en": "Generation using Nano Banana 2 / Nano Banana Pro models doesn't work on the AI Ultra plan", "lang": "pl", "f": [["model_selection", -1], ["credit_system_pricing", -1]]}
+{"id": "94e2d1ed-cff7-4120-a130-7d5c83ae516b", "en": "good apk, even though sometimes not in sync, if the prompt is good the result is also good. We support, hopefully it gets better. Understandable, apk is still Beta", "lang": "id", "f": [["prompt_following", 0], ["beta_patience", 0]]}
+{"id": "efedf6b2-1096-43bd-83a8-05ec8eda54ab", "en": "video doesn't match the photo, the app is messed up, broken. Better before on Web than through the app", "lang": "id", "f": [["character_consistency", -1], ["app_vs_web_parity", -1]]}
+{"id": "a4a02957-631a-4877-bbea-3332637a8ea7", "en": "Best AI app ever released for me", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "288bbb6c-fbe6-4864-a58b-51974949dba6", "en": "rewind this app", "lang": "lt", "f": []}
+{"id": "9d767818-afa0-4556-a46e-7c5e8cebf135", "en": "sucks after update. video generator stuck. always ruined the prompt", "lang": "en", "f": [["video_generation_quality", -1], ["prompt_following", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "687480db-1a8a-4547-8979-a75b4b9578ad", "en": "Doesn't work, says this technology or feature is not available in your region", "lang": "ar", "f": [["regional_availability", -1]]}
+{"id": "a1bf7e36-64b5-455f-8fa7-8773e9e5a302", "en": "Masterpiece, thanks Google", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "5fbd7494-f8e9-451b-954b-931452262716", "en": "Truly successful experience", "lang": "ar", "f": []}
+{"id": "2585c40f-c47e-4b3d-a071-ebd03bf99e7e", "en": "It generates unlimited images, thank you very much", "lang": "pt", "f": [["image_generation_quality", 1], ["credit_system_pricing", 1]]}
+{"id": "24559a66-a1d6-4b40-ba93-bd088d381a63", "en": "Very wonderful, I advise everyone to download it, easy and free", "lang": "ar", "f": [["ui_ux_design", 1], ["credit_system_pricing", 1], ["recommends_to_others", 1], ["loves_concept_overall", 1]]}
+{"id": "7ba4e497-2067-4b77-ad4b-e4948093c9a2", "en": "We ask for something with a photo and it goes and changes the character, the place, changes everything from the Prompt", "lang": "pt", "f": [["character_consistency", -1], ["prompt_following", -1]]}
+{"id": "37f5baa8-1850-44b7-a7e7-18673c44bf1b", "en": "Very wonderful app, deserves 10 stars", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "7416bfc2-9fb6-4bda-ac8c-0eadf1694e29", "en": "Garbage app, doesn't understand what you're writing in English or Arabic, executes orders wrong, doesn't know how to make an image from scratch with the specs you want", "lang": "ar", "f": [["prompt_following", -1], ["image_generation_quality", -1]]}
+{"id": "a4a89344-42ed-4456-b11c-26f312bb3527", "en": "App is good", "lang": "ar", "f": []}
+{"id": "b397aa90-4097-4578-8cef-1582a02313f8", "en": "Really solid, I recommend it", "lang": "ar", "f": [["recommends_to_others", 1]]}
+{"id": "e49783da-947f-462b-bca2-d9ce7e6779d8", "en": "best but a little expensive", "lang": "en", "f": [["credit_system_pricing", -1]]}
+{"id": "052b04ad-ee5e-4d1b-83ba-45bb1fb8e04d", "en": "Generate start/end using 2 photos, the result is different from the reference photo, better from web than this app", "lang": "id", "f": [["frame_to_frame_feature", -1], ["character_consistency", -1], ["app_vs_web_parity", -1]]}
+{"id": "7146db00-6e56-4476-934a-a050d34aa7c1", "en": "worse than grok", "lang": "en", "f": [["competes_with_other_ai", -1]]}
+{"id": "3e7af4f1-f295-4fc9-a95f-4f7c1393a382", "en": "The frames-to-video function is not available in the app, only on the site.", "lang": "pt", "f": [["frame_to_frame_feature", -1], ["app_vs_web_parity", -1]]}
+{"id": "e7e781df-f1bc-459d-9b53-2fb94dde5cc8", "en": "But it doesn't work", "lang": "ar", "f": [["crashes_errors", -1]]}
+{"id": "f0202cce-bf28-4c6e-8959-2b4953de1092", "en": "Very nice program", "lang": "ar", "f": []}
+{"id": "3b1f91e5-2c35-49f6-9341-b97897169956", "en": "Don't download it", "lang": "ar", "f": [["not_recommended", -1]]}
+{"id": "c35691fe-8b29-4771-b404-9e721f9bd6e0", "en": "Hey, this app is not generating video after the update, it constantly says Queued and not generating, using credits and not generating.", "lang": "en", "f": [["video_generation_quality", -1], ["credit_system_pricing", -1], ["crashes_errors", -1], ["nostalgia_for_old_version", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "e84e8bd1-f354-4e47-bffc-ae4dbd0c02b6", "en": "There are some problems at the beginning of animating the video but it's ok", "lang": "ar", "f": [["video_generation_quality", 0]]}
+{"id": "c6be4851-8ebc-4004-bad3-caac44d3abb3", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "8aeb6029-738a-46f5-800b-fe5f31f3f713", "en": "Failed, doesn't work", "lang": "ar", "f": [["crashes_errors", -1]]}
+{"id": "bc2b9c64-6f91-47c5-ada4-38e184882944", "en": "Very good and realistic", "lang": "id", "f": [["video_generation_quality", 1]]}
+{"id": "56f80906-d956-4544-911e-aa3f164471ca", "en": "I have been using Google Flow on the browser for a long time, but today, having the app has made my work easier. This application is very good for creating videos and although it is free and not unlimited, it can be done with a little work every day.", "lang": "en", "f": [["credit_system_pricing", 0], ["finally_mobile_companion", 1]]}
+{"id": "0c4cc856-bff6-4b6d-9446-ac203cf23728", "en": "Thank you for the app", "lang": "ar", "f": []}
+{"id": "8c649cc9-fbe9-472c-966e-87d6c62c9304", "en": "Beautiful app honestly", "lang": "ar", "f": []}
+{"id": "b812bf8b-98e4-4fe3-a61e-3019c5f14c3e", "en": "very good", "lang": "en", "f": []}
+{"id": "bb3bf5ca-671f-41b5-9fb1-04b79b9f8a9f", "en": "Very wonderful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "f7ba7cc0-869e-4488-95e1-ac4b93e51f28", "en": "Great", "lang": "en", "f": []}
+{"id": "cf5e0c4c-0e77-4228-872f-383d8b6d9d19", "en": "this app is not worth a penny. I bought a subscription of 399 thinking I would finally be able to make videos using AI. I was so happy. I didn't know about the credits and all. The app never mentioned it, not even during payment. Suddenly the credits ended and I couldn't make anything anymore. I lost my 400 for nothing. So disappointed and angry. At least they should give the subscriber a month free to make however many videos they want, even if they reduce a little quality.", "lang": "en", "f": [["credit_system_pricing", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "3eb811fb-0662-4c02-8c03-ed830fe6f049", "en": "Just tried Beta, hope it's smooth, four stars for now, if smooth I'll add stars", "lang": "id", "f": [["beta_patience", 0]]}
+{"id": "efeb13f4-da8e-4bb1-b85e-faeb457d7ec2", "en": "video load failed, unable to play any video.", "lang": "en", "f": [["crashes_errors", -1], ["video_generation_quality", -1]]}
+{"id": "429336ef-7399-4a48-8cdc-a1cf2fe99e08", "en": "Better the web version, suits what we expect for making videos. Making videos through the app, the result is not as expected, totally changed, and after done, downloading takes very long. Need to be fixed so it's like the website that suits what we expect for videos.", "lang": "id", "f": [["app_vs_web_parity", -1], ["character_consistency", -1], ["download_export", -1]]}
+{"id": "d0553403-fed8-4a2d-8b43-048df600182b", "en": "Just tried, hope it's smooth, I'll give four stars for now", "lang": "id", "f": [["beta_patience", 0]]}
+{"id": "00f9e3ab-17a3-4261-b16a-81c628001b68", "en": "Wonderful", "lang": "ar", "f": []}
+{"id": "8ca90259-f72b-4c8f-bc18-90264d7184ed", "en": "yes", "lang": "th", "f": []}
+{"id": "9d72de59-2792-44fc-90c1-d26f3ceab6bc", "en": "very nice", "lang": "en", "f": []}
+{"id": "54b38b08-cbc1-4775-9e31-20c799757855", "en": "Very beautiful and wonderful", "lang": "ar", "f": []}
+{"id": "8b496f38-4a74-47b1-8e55-8d797920aaa6", "en": "The best thing about the program is that it's beautiful and free, you can use it for free. Hoping Google keeps this feature always free. Thank you, the app is very nice", "lang": "ar", "f": [["credit_system_pricing", 1]]}
+{"id": "db443fe2-f06e-4961-be8a-7a80320a9e48", "en": "Under testing", "lang": "ar", "f": []}
+{"id": "483c5a25-5d49-4945-91ad-95c7333b7d11", "en": "Very beautiful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "4a6b0990-061c-4e00-aa8c-29be3827d866", "en": "almost unusable, this app takes forever to load, is cumbersome to use and crashes anytime you try to do anything. Needs a lot of work, very disappointing", "lang": "en", "f": [["performance_speed", -1], ["crashes_errors", -1], ["ui_ux_design", -1]]}
+{"id": "ba91cf2c-3c50-4ab6-b744-ea772361550f", "en": "there is no option to upscale the video and download, also no favorite option, maximum time fails to generate media.", "lang": "en", "f": [["download_resolution", -1], ["download_export", -1], ["video_generation_quality", -1]]}
+{"id": "2890048b-ec5b-4b34-91e0-ec8a93c17aaf", "en": "For now no prompt and video works on Omni", "lang": "es", "f": [["model_selection", -1], ["prompt_following", -1]]}
+{"id": "e3882c5d-7762-4441-bdba-9ecc84459041", "en": "As soon as a video on Bilibili from Juya reported it, I immediately searched Google Store and there it was. I'm the first, everyone look at me, look at me, I'm declaring something, I'm the first to discover this. (Long self-promotional comment about being first to review, also says he hasn't really used the app)", "lang": "zh", "f": []}
+{"id": "1c882149-ced0-4fcd-b723-b584d80afb08", "en": "Very nice app", "lang": "ar", "f": []}
+{"id": "57b5936b-15c8-40ea-ae6e-cb29284a3b89", "en": "Doesn't animate images, doesn't understand either English or Arabic", "lang": "ar", "f": [["prompt_following", -1], ["video_generation_quality", -1], ["language_support", -1]]}
+{"id": "ca7a6de9-d01e-4162-bb26-6dcbebbb4ab6", "en": "Not so good, video generated is still bad and stiff", "lang": "id", "f": [["video_generation_quality", -1]]}
+{"id": "4127f47c-dfb8-4851-a43d-93499d63a32d", "en": "Hello Google Flow Team, I would like to report an issue with the image-to-video feature in the beta app. When I upload a picture and generate a video, the final result often changes the original character too much. The face, body, clothes, style, or overall appearance sometimes become completely different from the uploaded image. The main problem is character consistency and image preservation. The generated video should stay closer to the original uploaded photo.", "lang": "en", "f": [["character_consistency", -1]]}
+{"id": "761e2ba5-b664-4118-8846-95dcb9df550a", "en": "the app works well. it meets my needs", "lang": "vi", "f": []}
+{"id": "00e5c940-436e-4c22-be09-eff10b73da83", "en": "very goooood", "lang": "en", "f": []}
+{"id": "8d962692-3691-4589-8ba8-f8789b6fe1d2", "en": "very good, especially because the site is bugging when creating the clips, hopefully the app improves soon", "lang": "pt", "f": [["app_vs_web_parity", 1]]}
+{"id": "9a83866f-1546-4fac-8edd-c6e78fdc8506", "en": "Too slow to transition to the new creation screen", "lang": "ja", "f": [["performance_speed", -1]]}
+{"id": "e32390d0-84b6-4154-a62e-6b856065ab7f", "en": "Where are you going Google?", "lang": "ar", "f": []}
+{"id": "b56ec38b-37a0-4cec-9231-eb71914512bc", "en": "Terrible. Just terrible. You'll burn through your credits, while it spits out slop, ignores every instruction you provide to try and correct the issues, and just hallucinates like 1st generation AI vids.", "lang": "en", "f": [["credit_system_pricing", -1], ["video_generation_quality", -1], ["prompt_following", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "b7794730-a61d-4a2f-85c6-cd3e7d31b629", "en": "The app version corrupted my collections in my project, now I can't find them on the web version", "lang": "en", "f": [["app_vs_web_parity", -1]]}
+{"id": "c40ac5b4-b6d0-411e-8275-5d3b2c4bed41", "en": "very wonderful", "lang": "vi", "f": [["loves_concept_overall", 1]]}
+{"id": "a016cfd6-2853-4c04-b519-176bcc3110c0", "en": "right", "lang": "ar", "f": []}
+{"id": "1701c62c-72fe-41a5-be83-a7c6b3b021c7", "en": "amazing", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "492dd104-de82-4c4d-b09d-f11e609a03c6", "en": "I didn't like it, it changes the model, doesn't do things well, changes everything", "lang": "es", "f": [["character_consistency", -1]]}
+{"id": "85f030fc-3fb0-4045-80fd-81c6f8b9e97a", "en": "Excellent", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "4fa76f14-98d3-4126-a015-e5648f463926", "en": "First comment", "lang": "ar", "f": []}
+{"id": "59c1fab9-892c-48ab-a46a-9686eaf51cfb", "en": "Mythical app, deserves downloading", "lang": "ar", "f": [["recommends_to_others", 1], ["loves_concept_overall", 1]]}
+{"id": "8e80567d-0a8d-466b-91b6-e20b38a5acfc", "en": "loved it, was good to animate photos", "lang": "pt", "f": [["for_personal_photos", 1]]}
+{"id": "4541dd9e-8db4-4fcc-abde-5cdffff47b4e", "en": "AI has become scary", "lang": "ar", "f": []}
+{"id": "93805ae8-73c2-4f44-8328-3028162529d6", "en": "The app is good, the problem is you can't download the created videos", "lang": "pt", "f": [["download_export", -1]]}
+{"id": "44b154c7-866d-4588-866c-1e5f21d53b76", "en": "Under testing", "lang": "ar", "f": []}
+{"id": "92bbc3fd-44b0-4fcf-ba96-dc45753047b0", "en": "excellent application I like it", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "7f888d86-d506-4c14-b9bd-1ea8b5a2e2bf", "en": "asphalt, ordinary, there are apps better than it", "lang": "ar", "f": []}
+{"id": "00fe8a6d-f804-479b-8f06-777c5f081a2c", "en": "Trash app, doesn't open", "lang": "ar", "f": [["crashes_errors", -1], ["dislikes_concept_overall", -1]]}
+{"id": "d2d375b4-ae83-47af-af7f-f4abf3b06bf0", "en": "nice", "lang": "ar", "f": []}
+{"id": "eca5750f-41cc-47d3-9b75-2abbf0cb3736", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "869cdad2-d75a-4345-a87a-244d93c5abf0", "en": "Very beautiful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "616e15e3-78e8-4d6f-afb6-4a7ab010bd98", "en": "thanks", "lang": "ru", "f": []}
+{"id": "54034685-5274-463f-a1cb-9c98d9279f04", "en": "This app is ugly, can't even follow a simple prompt, their website is more ok than this app", "lang": "tl", "f": [["prompt_following", -1], ["app_vs_web_parity", -1]]}
+{"id": "19620e52-237b-423c-9421-651263117d5f", "en": "the best", "lang": "en", "f": []}
+{"id": "6be7eaca-aecf-4d1a-9f9b-621e7e72cfec", "en": "Good initial experience", "lang": "en", "f": []}
+{"id": "1d58032f-fc3e-4f15-9389-0e06ecf1d6be", "en": "💙", "lang": "ar", "f": []}
+{"id": "04424d66-5537-4c37-bd78-45152563a52a", "en": "Well done Google", "lang": "ar", "f": []}
+{"id": "d1e4b41e-94b6-485a-8737-c1d181389139", "en": "Please make it work in Sudan", "lang": "ar", "f": [["regional_availability", -1]]}
+{"id": "b0aa4551-6748-4702-bde1-4ed6669df5ff", "en": "The app doesn't work, my phone is Note 9s", "lang": "ar", "f": [["crashes_errors", -1]]}
+{"id": "c97d6dc9-b257-4b45-8b41-6e5a19f7fdd5", "en": "Every time I log in, it logs me out again and asks me to log in again, and so on endlessly", "lang": "en", "f": [["login_authentication", -1]]}
+{"id": "79806a17-fc02-4cfa-a2c3-2d890114f57d", "en": "Some mistakes but still better than many apps", "lang": "ar", "f": [["competes_with_other_ai", 0]]}
+{"id": "36fc864a-4d7f-4340-af93-ed1ef86ca684", "en": "good", "lang": "es", "f": []}
+{"id": "4fffc973-778a-4a59-b647-e980f0c68d32", "en": "🤬", "lang": "ar", "f": []}
+{"id": "2f1d3c11-7a19-40d2-addb-40111434be3f", "en": "is really good 👍 I love you google", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "e7ccb914-5b7a-4af3-87e9-c848c82fb9cd", "en": "unbelievable", "lang": "en", "f": []}
+{"id": "af868fda-18cd-436b-8957-4e5ef469fe6d", "en": "Excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "c23b314e-acec-438c-a39d-dba9b0f70327", "en": "Very beautiful", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "a5ebc7ab-962e-43d4-994e-c3bb25cdf233", "en": "gooooooooooooooood", "lang": "en", "f": []}
+{"id": "4f3586ff-5ba5-43b1-b7c7-0d861961a2bc", "en": "Bad and I don't recommend anyone to download it, it freezes and doesn't work properly, and you have to pay if you want to use more", "lang": "ar", "f": [["crashes_errors", -1], ["credit_system_pricing", -1], ["not_recommended", -1]]}
+{"id": "d4116314-8da0-4b82-9bd9-f2f0270c7834", "en": "Tells me Google Flow service is not available", "lang": "ar", "f": [["regional_availability", -1]]}
+{"id": "1357b7e1-4de0-453c-bb32-3ac20e78b3b6", "en": "Great app", "lang": "en", "f": []}
+{"id": "6cf23b1d-a488-4266-b0f4-67a76c12472b", "en": "It's the first time I've installed an app that says it's not available to be used", "lang": "pt", "f": [["regional_availability", -1]]}
+{"id": "58bd6cd8-925e-44eb-a53c-f1d4c110d73c", "en": "Very very beautiful app, deserves more than 5 stars", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "adeace73-1836-409b-94eb-346e24c58fa9", "en": "Best image editing app in the world", "lang": "ar", "f": []}
+{"id": "a41a0088-8690-4b02-9e7d-2dd6ace3be69", "en": "Excellent app 100%", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "d8688a9a-c949-4e5e-8a54-31342f14780c", "en": "Doesn't work properly", "lang": "hi", "f": [["crashes_errors", -1]]}
+{"id": "73ca9c98-e368-41ea-8d51-7e3b52c89499", "en": "Easy to use, doesn't allow downloading images in good quality (2k).", "lang": "es", "f": [["ui_ux_design", 1], ["download_resolution", -1]]}
+{"id": "c6bc9570-3ddc-49c2-9e2d-daf31d364e88", "en": "good", "lang": "fr", "f": []}
+{"id": "098fe74f-699b-4fe0-90cf-895b629b5622", "en": "Since the update it became very bad", "lang": "id", "f": [["nostalgia_for_old_version", -1], ["dislikes_concept_overall", -1]]}
+{"id": "0f6770c4-7444-44ec-9049-33f712940cee", "en": "The latest update completely ruined Google Flow AI. Before, it was simple, smooth, and perfect for creators. The What Happens Next feature made long videos seamless and cinematic. Image-to-video was easy and beginner-friendly. Now the UI is confusing, messy, and frustrating. Even downloading often fails. Please review this update and bring back the old interface and workflow.", "lang": "en", "f": [["extend_video_feature", -1], ["ui_ux_design", -1], ["download_export", -1], ["nostalgia_for_old_version", -1], ["for_content_creators", -1]]}
+{"id": "2292ea7c-eaca-40c0-9204-0df366ac5f15", "en": "The UI of this app is messy, hard to use and needs major ergonomic overhaul.", "lang": "en", "f": [["ui_ux_design", -1]]}
+{"id": "95e37f55-c04a-4937-ad01-5c855a36c54f", "en": "top", "lang": "ar", "f": []}
+{"id": "450c448e-2abc-4386-95e5-64abea1f1105", "en": "it was normal", "lang": "en", "f": []}
+{"id": "156fe661-44d8-4f64-9504-856d7bcfaedb", "en": "By far google is leaving all ai models behind with its Gemini. This one strengthens google's ai tool ecosystem further. Keep growing google.", "lang": "en", "f": []}
+{"id": "b1ff10bb-43d7-4c1e-bae7-8980d0603eb2", "en": "It's good but I made 2 videos and then it said credits ran out", "lang": "uz", "f": [["credit_system_pricing", -1]]}
+{"id": "cbd8d969-3d24-49cd-8023-af3e30be69f8", "en": "Could be nice but there are several errors. 1. takes too long to load a video 2. 4 times out of 5 doesn't take the prompts and gives error. Several bugs that block the application compared to its web version. All this regarding video editing.", "lang": "it", "f": [["performance_speed", -1], ["prompt_following", -1], ["crashes_errors", -1], ["app_vs_web_parity", -1]]}
+{"id": "be9d84e4-c07d-414f-ad38-0c310f519794", "en": "Excellent! Interprets instructions perfectly with simple language, maintains the spirit of the base image. I'm amazed especially because it interprets the language very well, without need to use English prompts to optimize the result. Great, accessible price", "lang": "es", "f": [["prompt_following", 1], ["character_consistency", 1], ["credit_system_pricing", 1]]}
+{"id": "a38474ab-fa00-49d0-a581-654113c6675e", "en": "absolutely disgusting because it is worst in case you are old user", "lang": "en", "f": []}
+{"id": "c37f6944-d4a0-470c-85f6-6e155f8ec037", "en": "excellent app", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "2aa028da-e570-48c2-b0c0-6909ff74e5b0", "en": "Should be free", "lang": "uz", "f": [["credit_system_pricing", 0], ["wants_free_tier", 0]]}
+{"id": "b2e0c70c-e1b4-4f9e-9cc6-46fd4dbb6cc9", "en": "Tried to log into the app and create a video but it doesn't work, gives error, please help", "lang": "uz", "f": [["crashes_errors", -1], ["video_generation_quality", -1]]}
+{"id": "a0732be2-2a15-49f1-ba14-54ce29dc49cd", "en": "Great for a beta version", "lang": "es", "f": [["beta_patience", 0]]}
+{"id": "3cfebad5-0c7d-4484-a146-3d5904476a4f", "en": "totally useless, always has some error", "lang": "es", "f": [["crashes_errors", -1], ["dislikes_concept_overall", -1]]}
+{"id": "5030c3fd-194a-45be-bc31-dfcc853e01f3", "en": "Why doesn't the continue video feature work?", "lang": "id", "f": [["extend_video_feature", -1]]}
+{"id": "d3d01b88-f903-4240-abd2-64301ed1a1a6", "en": "I really liked it", "lang": "pt", "f": []}
+{"id": "2030e47c-35f4-49a3-98c4-ea361e5fa126", "en": "App is very bad, hard to make video, always fails saying change command or prompt, change but still no video generation", "lang": "id", "f": [["video_generation_quality", -1], ["prompt_following", -1]]}
+{"id": "fbcf6d85-e588-47c4-a784-ab65e03e499c", "en": "So far a good app especially with subscription. Maybe more functional features in near future. Good luck Google", "lang": "ru", "f": []}
+{"id": "db8b4e6c-e3de-4df7-a4af-00eaafc9ca30", "en": "Very disappointing, no frame feature, generated video changes shape, please add frame feature so the original photo doesn't change vs video result", "lang": "id", "f": [["frame_to_frame_feature", -1], ["character_consistency", -1]]}
+{"id": "b1cb6278-5942-4d29-bde4-2ce1e278bace", "en": "Can't attach an image with text, please add more image sizes", "lang": "ar", "f": []}
+{"id": "e04ba21a-6106-4eb3-9f2c-c48d2e47a719", "en": "cannot be Trusted.", "lang": "en", "f": []}
+{"id": "0677a4da-92f6-4b67-9648-83d7ff7a1c28", "en": "Uninstalled it and downgraded the Pro subscription plan since the monthly AI credits are removed permanently.", "lang": "en", "f": [["credit_system_pricing", -1]]}
+{"id": "8c856966-8be3-428c-ace1-9afb2a5e9f53", "en": "THIS IS JUST TERRIBLE. DOESN'T WORK WELL AT ALL. SEND A PHOTO AND REQUEST AND YOU GET SOMETHING COMPLETELY DIFFERENT. SO INFURIATING. NOTHING WORKS. 10 TIMES I TRY AND STILL USELESS. URGENTLY DELETE THIS APP OR BRING BACK THE WEBSITE.", "lang": "ru", "f": [["character_consistency", -1], ["prompt_following", -1], ["app_vs_web_parity", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "de99bd99-0ef1-4436-825b-35b3508dfec5", "en": "Better", "lang": "es", "f": []}
+{"id": "9bddb5a4-2da1-4cb6-90a2-ca3a6748c196", "en": "I haven't seen as good a photo editor as this. You must try it", "lang": "tr", "f": [["image_generation_quality", 1], ["recommends_to_others", 1]]}
+{"id": "50558365-b7f9-492b-b9a7-86f19e8cdb42", "en": "The previous version was much better in terms of quality, smoothness, and output accuracy. After the recent updates, the results feel inconsistent and the overall performance seems worse. Compared to before, the current experience is quite disappointing.", "lang": "en", "f": [["video_generation_quality", -1], ["performance_speed", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "644bc9d1-8e88-448c-87be-1e23ce9cc32e", "en": "Easy to use, has free quota", "lang": "zh", "f": [["ui_ux_design", 1], ["credit_system_pricing", 1]]}
+{"id": "2f00a687-3ca3-4e75-8f4a-5e0aed3063dc", "en": "Errors, doesn't work for shit", "lang": "vi", "f": [["crashes_errors", -1]]}
+{"id": "48da5d2a-4f36-4b5f-9ba8-6957cf85c691", "en": "Best thing you've made", "lang": "ar", "f": []}
+{"id": "878c4802-1d6c-4785-9842-e0c31cbf086b", "en": "in website all working fine. but app worst", "lang": "en", "f": [["app_vs_web_parity", -1]]}
+{"id": "4c0b88a4-17cf-4b10-9538-0b8e2996ea47", "en": "can I rate it with more stars this app is really beautiful and amazing", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "32b34f92-a106-4dee-b02a-914f07d8115d", "en": "hard to zoom in an image. you have to pinch in horizontally. please make it easier on Android phone.", "lang": "en", "f": [["ui_ux_design", -1]]}
+{"id": "936ffbf7-7b2f-4660-9530-bb6be4c0ce38", "en": "nice app", "lang": "en", "f": []}
+{"id": "4980d0ab-3758-402f-bca1-69f1993bf7e6", "en": "nice", "lang": "en", "f": []}
+{"id": "55f6364b-cec8-4c38-a93a-7c993167fa60", "en": "Very good", "lang": "th", "f": []}
+{"id": "230ca4c5-d9f9-4e8c-980a-06c39b23118f", "en": "Very good app, I love it", "lang": "en", "f": []}
+{"id": "fb849070-7324-4964-a603-5c3f7ccbc3c9", "en": "headache to use, keeps failing generations that FX does perfectly fine, ran out of uses after 3 attempts... don't even bother installing this.", "lang": "en", "f": [["crashes_errors", -1], ["credit_system_pricing", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "536f888b-ca83-41a7-b219-ffb39444c938", "en": "Doesn't work, always get error when uploading image", "lang": "de", "f": [["crashes_errors", -1]]}
+{"id": "0024e401-85c2-4d05-9b56-73baa29070ee", "en": "used to be simple and great. The new design is terrible — confusing, messy, and much harder to use on both the website and app. The old design was far better.", "lang": "en", "f": [["ui_ux_design", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "c0f973a7-358f-4164-a469-111ea1a3cf85", "en": "first review one Star ⭐", "lang": "en", "f": []}
+{"id": "e255d098-4849-44e7-839a-f2b2f7701eff", "en": "Best but download problem", "lang": "en", "f": [["download_export", -1]]}
+{"id": "9ea7b582-014b-4dd8-8ae0-e4e0c9637dbf", "en": "App with great future, I already use on web, now via Android.", "lang": "pt", "f": [["finally_mobile_companion", 1]]}
+{"id": "11bacde5-ef30-4775-adc9-59a72fb9474e", "en": "hey there I just installed this app to use it but it just says it's not available in your area please do check out our area for its support a lots of users are present here", "lang": "en", "f": [["regional_availability", -1]]}
+{"id": "2df1d6c3-8a02-425f-8998-3f168f5404be", "en": "best app", "lang": "en", "f": []}
+{"id": "866cce6c-8e09-4d4b-a3c3-9030b93cfac8", "en": "It's incredible, wonderful app, but it needs a bit more performance and improvement when loading an image, but it's incredible. We should wait because it's still beta", "lang": "es", "f": [["performance_speed", -1], ["beta_patience", 0]]}
+{"id": "aad46b80-6bd3-4a43-9235-bff4ee90d41b", "en": "Right now it's very bad, can barely create videos, sometimes takes too long, sometimes fails, sometimes asks for new prompt, many many. In summary, after the update it's worse than before", "lang": "th", "f": [["video_generation_quality", -1], ["performance_speed", -1], ["crashes_errors", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "f4e800f1-f125-43d7-9e52-b812e0609188", "en": "very hot apps", "lang": "en", "f": []}
+{"id": "5d6246cb-6e89-4a83-8515-7b581dd19a51", "en": "Message box always freezes, can't use it... didn't they test this?", "lang": "zh", "f": [["crashes_errors", -1]]}
+{"id": "3de9eb7e-bdf1-4584-9d73-0bc270901daf", "en": "First review! The system works great.", "lang": "es", "f": []}
+{"id": "fe9e0cab-b535-4b63-a9fe-18ef40b466d2", "en": "bad experience, the web is good, this is still beta but they released it directly without beta testers first, disappointing, often errors even though prompt is correct, hope it improves", "lang": "id", "f": [["app_vs_web_parity", -1], ["crashes_errors", -1], ["prompt_following", -1], ["beta_patience", 0]]}
+{"id": "6a7939dd-18ce-4715-ba92-6d8844f34e4c", "en": "Easy to use, good, I really like it", "lang": "th", "f": [["ui_ux_design", 1]]}
+{"id": "7c4f08da-b387-4c42-8d3b-091bfa019969", "en": "good", "lang": "de", "f": []}
+{"id": "dd25cf08-1f7f-40c3-99c2-43e1e779ca5f", "en": "Bad update, old update is best", "lang": "en", "f": [["nostalgia_for_old_version", -1]]}
+{"id": "891c5100-d618-42e3-94fa-278606fc5cbf", "en": "At least let it remember the previous settings. Every time we're forced to select size and pro etc", "lang": "ja", "f": [["ui_ux_design", -1]]}
+{"id": "f692f433-f60a-42bf-b4e4-155adcc1a608", "en": "very bad", "lang": "id", "f": [["dislikes_concept_overall", -1]]}
+{"id": "4f501887-41c5-4633-8f48-7ec08f207e9d", "en": "excellent", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "3fb0b513-bb52-4dec-8914-7b12e41156a5", "en": "When it became an app it got much weirder, generate one image and get a different character, generate one image but it ends up somewhere else, wasted credits for free, please fix", "lang": "th", "f": [["character_consistency", -1], ["credit_system_pricing", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "8d390333-ae85-4e4f-9f10-1fd461858ec5", "en": "Both app and web versions are weird now, even though they used to be good, now can't upload photos", "lang": "id", "f": [["app_vs_web_parity", -1], ["crashes_errors", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "74f9c24a-8686-4241-a9e0-b37132377d13", "en": "sensational!", "lang": "es", "f": []}
+{"id": "fd67d207-ba7e-4058-9e6d-436327dd103f", "en": "Why doesn't it match the prompt, keeps changing even though the prompt is complete, doesn't follow orders, want to go back to website but can't... my YouTube content is stuck", "lang": "id", "f": [["prompt_following", -1], ["app_vs_web_parity", -1], ["for_content_creators", -1]]}
+{"id": "7a397cfa-21db-47df-8239-84eac964abc1", "en": "This app is useless. The image quality is poor. And it can't generate videos properly.", "lang": "en", "f": [["image_generation_quality", -1], ["video_generation_quality", -1]]}
+{"id": "a0991c94-ab2f-4856-9738-d38eb32f9539", "en": "very good in my opinion", "lang": "es", "f": []}
+{"id": "ba618f57-17ef-4a6a-be1c-2f791fa00042", "en": "Sorry, this app is terrible, I asked for one thing and it did something else, also expensive to pay, please don't use Google Flow Beta, please fix, the videos are terrible, getting 1 video that we want is very hard, doesn't make prompt right, bad", "lang": "ms", "f": [["prompt_following", -1], ["credit_system_pricing", -1], ["video_generation_quality", -1]]}
+{"id": "1fbeeebb-b75f-4a58-a21f-a6e51c05e8ab", "en": "App doesn't meet needs, the photo sent results in unclear photo", "lang": "id", "f": [["image_generation_quality", -1], ["character_consistency", -1]]}
+{"id": "8c0c3299-71fc-4e7d-ad01-324e98a794a4", "en": "Wonderful and very excellent", "lang": "ar", "f": [["loves_concept_overall", 1]]}
+{"id": "2605dfbf-d5e8-461b-9eb8-7ae5f9596b6c", "en": "App is horrible, can't do anything, always error. I prefer to do directly through Google", "lang": "pt", "f": [["crashes_errors", -1], ["app_vs_web_parity", -1]]}
+{"id": "ccfa8674-10a4-4fcb-912b-f06a7e30e2d0", "en": "Trash, generating video doesn't work", "lang": "id", "f": [["video_generation_quality", -1], ["crashes_errors", -1]]}
+{"id": "d7f58906-4f8b-4347-b038-a7c9198c5574", "en": "The app looks good, only missing seeing the corresponding prompt", "lang": "es", "f": []}
+{"id": "f88cdd94-2dbd-431b-a8db-12c16b100114", "en": "Works very well but would like more credits added, limits very fast, if really good would give 10 stars no deduction", "lang": "th", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "750a2e81-55cb-4003-9985-45e957abbfd9", "en": "top", "lang": "pt", "f": []}
+{"id": "e6a6a968-2cbe-405b-9116-56d6e8751caa", "en": "Worse than doing it on the web. Take it down", "lang": "th", "f": [["app_vs_web_parity", -1], ["not_recommended", -1]]}
+{"id": "fe200c6f-116f-43b0-8bb7-00479da3ca7a", "en": "Please, Google, make your app support Libya because it's not available in my country. I hope you see this message.", "lang": "en", "f": [["regional_availability", -1]]}
+{"id": "ee9c2bc9-6f0c-4e00-b17b-1329850f67c0", "en": "good", "lang": "id", "f": []}
+{"id": "e2a8a3a4-fe41-421d-98ce-9fe42ec0c3ff", "en": "success", "lang": "es", "f": []}
+{"id": "1bb16b90-5a7e-4aad-afc4-e8eb5f9827e1", "en": "High performance AI experience", "lang": "es", "f": []}
+{"id": "f7949d3e-5fe8-40ab-b665-6a215736924f", "en": "Can't create video, taking one star", "lang": "th", "f": [["video_generation_quality", -1], ["crashes_errors", -1]]}
+{"id": "1925e998-a284-4939-a166-5b310c621a37", "en": "I was waiting for this app, but so far, the rendering is poor. It doesn't understand prompts, and generates videos completely different from the image. You finally included an Animate feature. But you removed the Extend feature, a very key feature which helps to seamlessly blend clips together. Kindly replace it. Also, please add and activate the other features like Remove and Insert, which were not working in the Flow page.", "lang": "en", "f": [["video_generation_quality", -1], ["prompt_following", -1], ["character_consistency", -1], ["extend_video_feature", -1], ["finally_mobile_companion", 1]]}
+{"id": "20ec249c-2411-44a3-88ea-f0ec9f6b112d", "en": "very bad", "lang": "ar", "f": [["dislikes_concept_overall", -1]]}
+{"id": "1afd50fc-a3ec-44c8-b463-73ba7c58ac8e", "en": "Flow was great! You could do continuous scenes, maintained character integrity, now it's terrible! Went from best AI to worst with one update", "lang": "pt", "f": [["extend_video_feature", -1], ["character_consistency", -1]]}
+{"id": "9a393db5-1f49-41cb-b315-cead50bd9b19", "en": "Got really really bad, didn't like it, can't use some features like using the same prompt to animate, very very bad", "lang": "pt", "f": [["extend_video_feature", -1]]}
+{"id": "befe5185-927f-407b-9283-ec0ff6532a68", "en": "It's just the internet version in app form, especially since you can already install Google Flow Gemini from the website to make it a mobile app. At least Google could have translated to other languages. This app is not essential in this state", "lang": "fr", "f": [["app_vs_web_parity", -1], ["language_support", -1]]}
+{"id": "d3cc6e2d-6c77-45bc-94ec-58f3f1e1864e", "en": "The image quality is incomparable to the web, you can't choose what quality to download as on the web, that's fundamental. It's beta, they need to improve more", "lang": "es", "f": [["image_generation_quality", -1], ["download_resolution", -1], ["app_vs_web_parity", -1]]}
+{"id": "9283a682-7cae-4817-9444-4cc161e74781", "en": "Great, before you had to work through the browser, now it's more convenient", "lang": "ru", "f": []}
+{"id": "ae850604-2ead-45af-9388-6785300db21d", "en": "Best editing app, awesome, hope it continues to succeed.", "lang": "id", "f": [["loves_concept_overall", 1]]}
+{"id": "2469fea3-159f-4b47-8855-28b4dbef40bf", "en": "First review in the Arab world", "lang": "ar", "f": []}
+{"id": "58b676d4-e1c2-4b63-b8c0-0b82a89fc56b", "en": "Image quality is quite bad when downloaded", "lang": "vi", "f": [["download_resolution", -1]]}
+{"id": "84651b8f-11b0-47b3-9299-554a928cbe96", "en": "I love this app. I'm a deaf person from Venezuela and it's the first time I use Google Flow. It has become my favorite for bringing my baseball photos to life, the results are excellent. I don't have money to pay for a plan, but I appreciate that you let us create with free credits. Many thanks Google for this great tool!", "lang": "es", "f": [["image_generation_quality", 1], ["credit_system_pricing", 1], ["for_personal_photos", 1], ["wants_free_tier", 0]]}
+{"id": "8de9be96-cf51-4702-b70b-cf1b979817b3", "en": "carry on google", "lang": "en", "f": []}
+{"id": "338f74f8-879d-4127-afa7-f6f20bff7770", "en": "Generated only one video and stopped working. All requests give me error.", "lang": "es", "f": [["crashes_errors", -1]]}
+{"id": "206fcf6a-ce26-4486-8028-7e1147b50dae", "en": "why show in the Play Store if not available in my region", "lang": "en", "f": [["regional_availability", -1]]}
+{"id": "4917f3fc-0e7b-4839-a147-5b5ad16fac76", "en": "what is it for?", "lang": "es", "f": []}
+{"id": "4a2d76d6-2e46-4898-b483-aa45b220e610", "en": "Google Flow currently only supports a 1K photo generator, which feels far less practical than working on a desktop. When trying to generate front, back, side, or top-down views from an original image, the system often produces completely unrelated results. I attempted multiple times, but the outputs consistently failed. Since the 5/19/2026 update, the performance has become even worse to the point that the feature is essentially unusable.", "lang": "en", "f": [["download_resolution", -1], ["character_consistency", -1], ["app_vs_web_parity", -1], ["prompt_following", -1]]}
+{"id": "bcfa266c-1439-4a80-9062-6a8688ca56df", "en": "Best For Content creators", "lang": "en", "f": [["for_content_creators", 1]]}
+{"id": "d0d40b2d-250d-49a4-afff-2dfacfc1e803", "en": "The Flow Beta is a fun way to create AI images and create videos.", "lang": "en", "f": []}
+{"id": "68e5c4a1-3afa-40d8-8777-fc04e75070b9", "en": "I love trying new Google products", "lang": "tr", "f": [["loves_concept_overall", 1]]}
+{"id": "ab3866ac-a1b7-4f1d-8b45-c6e359fd399e", "en": "For making images it's still good, but for making videos it's not as good as before, it's bad now, doesn't match the prompt description", "lang": "id", "f": [["image_generation_quality", 1], ["video_generation_quality", -1], ["prompt_following", -1]]}
+{"id": "25b7a161-a6bd-4887-88ae-ed9649a26458", "en": "It's generating many videos in English, instead of my language, Brazilian Portuguese.", "lang": "pt", "f": [["language_support", -1]]}
+{"id": "b63cb263-07f5-4448-a70d-a3e8ef732ff5", "en": "Thrilled to be one of the very first to review the official Google Flow AI app! We have been eagerly waiting for this mobile launch. It's a total game-changer for productivity and creative workflows on the go. A massive thank you and a warm welcome to the Google team for delivering exactly what we needed! Luqman Atish From Pakistan", "lang": "en", "f": []}
+{"id": "5e338209-4e76-4d0c-8990-7f38f1a8a937", "en": "Y'all could have left this on the google website, half of the images that I get is blurry. And really don't generate everything that you actually asking for most times it's a lot of violations where you just try to generate something simple", "lang": "en", "f": [["image_generation_quality", -1], ["prompt_following", -1], ["content_moderation", -1], ["app_vs_web_parity", -1]]}
+{"id": "02f621f4-7b83-441d-ac99-2e4432325f32", "en": "nice apps thank you sir", "lang": "en", "f": []}
+{"id": "511d2831-5d25-4513-ac69-a567a92f1ba5", "en": "Positive points: Images generated (like the realistic cat and dark style) are excellent. Single image animation works very well. Take a photo mode improves the results well. Negative points: Video and motion generation is bad and artificial. AI voice is extremely robotic. App has many frequent bugs during use.", "lang": "pt", "f": [["image_generation_quality", 1], ["video_generation_quality", -1], ["crashes_errors", -1], ["voice_audio_quality", -1]]}
+{"id": "2094c5c9-cb43-4eed-a329-bdca4898f1b0", "en": "because it was not available in India what it was not right right", "lang": "en", "f": [["regional_availability", -1]]}
+{"id": "808caa7c-4369-427e-97c7-3565384c5fdc", "en": "Unable to download, showing unable to download", "lang": "en", "f": [["download_export", -1]]}
+{"id": "f370cd23-5b71-408d-a148-52ad2fa711d3", "en": "2 days before the google flow web was going very very well but now it is not making proper video, it changes the video background, doesn't animate properly, also changes the theme of video... not going good.", "lang": "en", "f": [["video_generation_quality", -1], ["character_consistency", -1], ["app_vs_web_parity", -1]]}
+{"id": "7fe7c1c6-c165-4b4a-b993-4b127d7ab8ec", "en": "Beautiful app but sometimes causes trouble", "lang": "bn", "f": [["crashes_errors", -1]]}
+{"id": "173fb3df-0937-4cd7-bb0c-3110bdd2d08d", "en": "Stars Shine", "lang": "pt", "f": []}
+{"id": "ad7b91a4-9b2c-49a9-967c-aca483d6985e", "en": "Images aren't loading in the project", "lang": "ar", "f": [["crashes_errors", -1]]}
+{"id": "88b4a179-80bf-45af-9bb1-24cb6a14360a", "en": "best app from our Google", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "aa313e1b-f2ed-4694-9efb-aea055bb0369", "en": "Nice Flow 3.5 working", "lang": "en", "f": [["model_selection", 1]]}
+{"id": "d64721f0-287b-4421-a535-9df1de4d8513", "en": "Very good experience!", "lang": "en", "f": []}
+{"id": "d2373f20-5da5-4505-9e7f-967eaeb48050", "en": "Very bad at creating videos, I don't recommend using it currently", "lang": "ar", "f": [["video_generation_quality", -1], ["not_recommended", -1]]}
+{"id": "912a3bb1-4856-49f4-803c-e7054531d6e0", "en": "As usual google is innovating again", "lang": "ar", "f": []}
+{"id": "969dded6-4683-4ad8-84ae-7b584179c749", "en": "I am the first user and downloader of this app.", "lang": "en", "f": []}
+{"id": "f7736522-81e3-488b-a13f-56a9134722c3", "en": "Creates amazingly", "lang": "th", "f": [["loves_concept_overall", 1]]}
+{"id": "629e9ad6-eefc-44cd-9da9-629ffb53294b", "en": "I actually used it to edit my friend's birthday photo yesterday. Reaching today, the app keeps crashing after uploading the documents I'll use. Also I noticed it stated flow isn't available in my region yet. I had to log out and in again before it started working. I just started AI content creating, I'm Nigerian, subbed for gemini pro and that's the same subscription I'm using on flow.", "lang": "en", "f": [["crashes_errors", -1], ["regional_availability", -1], ["login_authentication", -1], ["for_content_creators", 0], ["for_personal_photos", 1]]}
+{"id": "4dfe623c-de94-466d-99e5-038661388013", "en": "Very bad, I tried my own image on omni flash model 4 times, it always makes the same person but it's not me! Don't waste your credits! If you'll just say it's beta, don't take credits", "lang": "tr", "f": [["character_consistency", -1], ["credit_system_pricing", -1], ["model_selection", -1], ["not_recommended", -1]]}
+{"id": "c9576fbe-21f7-46f0-9a7a-e2b578e9db90", "en": "This is very slow to working compared to other AI apps", "lang": "en", "f": [["performance_speed", -1], ["competes_with_other_ai", 0]]}
+{"id": "6f26333b-afdf-420d-908c-a502b87a804d", "en": "Is not good. the character is not consistent, once I input the image to Video, it was different. Waste my time", "lang": "en", "f": [["character_consistency", -1]]}
+{"id": "201c603e-53cb-49ae-a6b2-6ef917219e92", "en": "great", "lang": "id", "f": []}
+{"id": "a2676904-d998-4dee-99a7-a41ee0f56152", "en": "loads too slow and long", "lang": "vi", "f": [["performance_speed", -1]]}
+{"id": "937eba9f-b6c9-48fd-bc3c-d1b2ce6f8b12", "en": "It's freezing, and the official site is buggy, not delivering things like before, and it's not working on mobile", "lang": "pt", "f": [["crashes_errors", -1], ["app_vs_web_parity", -1]]}
+{"id": "c6751549-ac0e-4aa1-925a-710686bbe705", "en": "EXCELLENT", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "7f53464c-ef1f-47c4-b5b5-8e121c263fbe", "en": "Under testing", "lang": "ar", "f": []}
+{"id": "79b0f9ed-0c56-452d-841d-810273edd1ee", "en": "cool, easier to make", "lang": "id", "f": [["ui_ux_design", 1]]}
+{"id": "88678723-9619-4252-9c9d-85f22b8afd2a", "en": "⭐⭐⭐⭐⭐", "lang": "ms", "f": []}
+{"id": "04af4e94-b068-41f2-adb2-d497bc4eea96", "en": "very good, you could add more credits to last longer", "lang": "pt", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "4efdb149-735f-4af1-80fe-ffaed294bc83", "en": "considering the small errors, but I understand it's still beta", "lang": "pt", "f": [["crashes_errors", -1], ["beta_patience", 0]]}
+{"id": "411b5a77-5d75-4e57-8422-42a0b1067bbb", "en": "good app..", "lang": "en", "f": []}
+{"id": "3a9efc8f-b6f0-40b8-8e54-898f75c795fa", "en": "Google Flow Beta is an amazing AI creative app with a clean and user-friendly interface. The AI generates impressive visuals and cinematic content quickly and accurately from simple prompts. It is fast, smooth, and very useful for creators, designers, and content makers. Although there are a few minor bugs because it is still in beta, the overall experience is excellent. Google has huge potential with this app, and future updates could make it one of the best AI creative tools available.", "lang": "en", "f": [["ui_ux_design", 1], ["image_generation_quality", 1], ["video_generation_quality", 1], ["prompt_following", 1], ["performance_speed", 1], ["crashes_errors", -1], ["for_content_creators", 1], ["beta_patience", 0]]}
+{"id": "1995f9ad-46f0-42d1-b057-84b0f1fa2dc2", "en": "I've been waiting for this. Now I can quickly create something on smartphone and save the data transfer from PC to phone. Hopefully more features will be added, upscaling of images/videos like on computer would not be bad. For a first version it's enough.", "lang": "de", "f": [["download_resolution", -1], ["app_vs_web_parity", -1], ["finally_mobile_companion", 1], ["beta_patience", 0]]}
+{"id": "c8ed837d-2c38-451c-9caa-daa454dde8bb", "en": "Generated product videos never match the original example shape. Please fix soon so stars can change to 5", "lang": "id", "f": [["character_consistency", -1]]}
+{"id": "f1749f90-7efa-441e-964b-04848155e90f", "en": "Add 4K Quality Like on the Website", "lang": "id", "f": [["download_resolution", -1], ["app_vs_web_parity", -1]]}
+{"id": "039ceadd-ff13-48df-a9b2-6b31eed92937", "en": "Why was the web turned off when the apk version isn't ready", "lang": "id", "f": [["app_vs_web_parity", -1]]}
+{"id": "bf7539f0-be8f-4b8a-9628-34bedacb5eff", "en": "Very good app. Just small bugs with the player of generated video content and download failures of the same.", "lang": "es", "f": [["video_generation_quality", -1], ["download_export", -1], ["beta_patience", 0]]}
+{"id": "885a2b31-a56e-4797-bb47-fc6ca132c51c", "en": "In this version you can no longer merge videos, it doesn't follow instructions well, you ask for Latin Spanish video and it puts the language it wants and adds texts in another language, the website version was better, I didn't like the update", "lang": "es", "f": [["extend_video_feature", -1], ["prompt_following", -1], ["app_vs_web_parity", -1], ["language_support", -1]]}
+{"id": "18ee7eda-9d63-486f-a171-48471f7d9c64", "en": "very good, easy to use, I liked it and it's worth subscribing", "lang": "pt", "f": [["ui_ux_design", 1], ["credit_system_pricing", 1]]}
+{"id": "b9b0b78b-a674-41b9-b602-4dc718ea53e9", "en": "inefficient", "lang": "es", "f": []}
+{"id": "8a533f41-9fe1-4f97-8916-da3c536adc20", "en": "Great app, but woeful selection of image ratios", "lang": "en", "f": []}
+{"id": "598423fb-338d-48fe-8f16-8eae20499817", "en": "terrible, unable to execute a simple prompt", "lang": "pt", "f": [["prompt_following", -1], ["dislikes_concept_overall", -1]]}
+{"id": "b9ca02c5-bb0d-4fbc-8dca-7b97045f9c71", "en": "Awesome", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "308f4e38-897e-44ca-b713-8f3ab1006f01", "en": "the app is good but there is a problem, I don't find video extend option, if you solve this the app will be best", "lang": "en", "f": [["extend_video_feature", -1]]}
+{"id": "8e5ca9c6-4f16-477f-8a54-fe55749de16b", "en": "please add a video and image upscaling option.", "lang": "en", "f": [["download_resolution", -1]]}
+{"id": "aa55143c-7a8c-4cc1-bf76-d5833ca51ef0", "en": "please solve the problem, no image or video is downloading and the video is not playing even after generation.", "lang": "en", "f": [["download_export", -1]]}
+{"id": "2bed777a-8dd3-4969-9ddb-e5571ef2716e", "en": "Different from the previous site, where you can't connect videos by entering the next command", "lang": "id", "f": [["extend_video_feature", -1]]}
+{"id": "7086ad5e-b2c6-4101-ae59-052b18f6ee94", "en": "Good to have a convenient app, but during video creation the option to select frames and assets like on the web has disappeared, which is disappointing. Please add this to the app too", "lang": "ko", "f": [["frame_to_frame_feature", -1], ["ingredients_feature", -1], ["app_vs_web_parity", -1]]}
+{"id": "7c5f54e3-18bb-42c9-b229-1f01f5c76ade", "en": "good", "lang": "en", "f": []}
+{"id": "c5c92a3e-963a-45a0-bc8c-9a69917ae1bd", "en": "Good. Must try this newest useful app from Google", "lang": "en", "f": [["recommends_to_others", 1]]}
+{"id": "28a1600b-105d-461f-be26-c21b04306685", "en": "Promising tool, but needs refinement. Google Flow has a lot of potential for streamlining workflows, and I appreciate the clean interface. The integration capabilities are quite smooth, which makes it easy to set up basic tasks. However, I've noticed some latency issues during complex operations, and it can be a bit overwhelming for new users to navigate the advanced settings. It's a good start, but I'm looking forward to more stability and perhaps some more intuitive tutorials in the upcoming!", "lang": "en", "f": [["ui_ux_design", 0], ["performance_speed", -1], ["beta_patience", 0]]}
+{"id": "bfe3d064-c4cf-406a-aa7a-fdce7c77bda8", "en": "I'm very satisfied", "lang": "id", "f": []}
+{"id": "e8f3d3e0-37ea-4389-b39b-2db1481236a7", "en": "It created really good AI videos", "lang": "en", "f": [["video_generation_quality", 1]]}
+{"id": "e70ce124-8ea7-461f-b58e-f1117ada29cf", "en": "flow is the best app for generating videos", "lang": "en", "f": [["video_generation_quality", 1], ["loves_concept_overall", 1]]}
+{"id": "1f98a1c3-ba7d-4589-847d-b827c41b69e1", "en": "Beautiful program, but there's a problem, it doesn't want to animate an image of Messi or Cristiano Ronaldo, please solve", "lang": "ar", "f": [["content_moderation", -1]]}
+{"id": "192da63f-79a4-4d5d-9f60-1dbda13ca671", "en": "Hello, didn't expect there's already beta Flow AI, wow Google app is also different, thanks", "lang": "ms", "f": []}
+{"id": "865d1a38-51aa-4ce1-bdb2-d4ad5d813922", "en": "helpful and useful", "lang": "en", "f": []}
+{"id": "befc3253-752a-492f-819a-82adefe1beef", "en": "superb app", "lang": "fr", "f": []}
+{"id": "3d16d93b-68ba-4b34-89ea-e75cfc194955", "en": "The UI is very easy to use, the operation is also stable, the features are well-developed. But the image editing feature has some difficulties.", "lang": "ja", "f": [["ui_ux_design", 1], ["performance_speed", 1], ["image_generation_quality", -1]]}
+{"id": "19b514fa-49af-46cd-9f58-34ec7edaf187", "en": "good performance", "lang": "en", "f": [["performance_speed", 1]]}
+{"id": "f24a8caf-4645-497f-8001-03708d5a100d", "en": "Good beta overall, everything works fine. The UI could use some M3E elements. The Picture edit mode changes the aspect ratio from 3:4 to 8:16. The animate function on Picture edit mode can sometimes be glitchy.", "lang": "en", "f": [["ui_ux_design", 0], ["image_generation_quality", -1], ["crashes_errors", -1]]}
+{"id": "4558aeb9-2b47-4645-94fe-e7a8ddbb3cad", "en": "the results are well but it's too much time taking and you have to upload every single picture you want to edit, it looks so boring and time taking", "lang": "en", "f": [["performance_speed", -1], ["ui_ux_design", -1]]}
+{"id": "8855ddbe-772e-40ac-bdee-8919d0c15f19", "en": "The picture we upload to make a video does not turn into a video. Instead, it creates a video using some other picture that we never even attached.", "lang": "en", "f": [["character_consistency", -1]]}
+{"id": "81483991-c2ba-4093-a6c4-0f59e4a97d1b", "en": "This is awesome I put a pretty detailed prompt for a video and wow I was very impressed", "lang": "en", "f": [["prompt_following", 1], ["video_generation_quality", 1]]}
+{"id": "50551e56-36cd-47e3-b10b-8267df20bcc5", "en": "This app is truly amazing, but I request Google to please keep this app free for images. Think about the poor public too, who might achieve something in their lives because of you. Keep this app free for images, please don't make it Paid for images.", "lang": "en", "f": [["credit_system_pricing", -1], ["wants_free_tier", 0]]}
+{"id": "58273194-0a65-4e84-a86b-166c54e29cc6", "en": "Can't download the photos it says Failed to download this media", "lang": "en", "f": [["download_export", -1]]}
+{"id": "a59e3c19-fc6e-4c14-8699-c73e3a1c793d", "en": "cool I tried it before you need to try this to create a video", "lang": "en", "f": [["recommends_to_others", 1]]}
+{"id": "147bc933-6217-4559-8b7f-9993af81a466", "en": "please fix the download problem.", "lang": "en", "f": [["download_export", -1]]}
+{"id": "4d517a02-dd8d-4140-a7fe-995a91a6342b", "en": "good working android", "lang": "en", "f": []}
+{"id": "d85e007d-bd78-40a8-8ba8-627a2c12df8b", "en": "Very bad, repeatedly generating video doesn't get better but more disappointing.", "lang": "id", "f": [["video_generation_quality", -1]]}
+{"id": "66922db7-b93c-45f4-a265-3012c9b44c27", "en": "Can't extend video content, the old one could do more", "lang": "th", "f": [["extend_video_feature", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "8e8110e3-d5e0-4b59-8690-5879db7802c9", "en": "very very good", "lang": "id", "f": []}
+{"id": "613f4526-199f-447b-86f4-e40865241742", "en": "good", "lang": "en", "f": []}
+{"id": "3a5094ef-0e3f-4b7b-8c82-069eb57e8321", "en": "even it's an accurate prompt it still changes everything from the model's face to its clothes and some things", "lang": "en", "f": [["prompt_following", -1], ["character_consistency", -1]]}
+{"id": "6b197620-36cc-4fb1-b9e1-13b543f11143", "en": "the app in itself is great. Almost all functions from the web came to the app. The only reason this is not 5 stars is because you don't have the possibility to download your creations at a higher resolution than 1k. Everyone wants their creations as high quality as possible so using the app as opposed to the website is not the best experience", "lang": "en", "f": [["download_resolution", -1], ["app_vs_web_parity", -1]]}
+{"id": "f044278b-b7b2-4bff-9171-b7b6b992b2e4", "en": "The ingredients part is missing when I want to make a video out of a pic. Please include it. It's working in the Web Version", "lang": "en", "f": [["ingredients_feature", -1], ["app_vs_web_parity", -1]]}
+{"id": "1dbba4cf-97e3-463b-bce6-fd6a2b677333", "en": "wonderful application", "lang": "pt", "f": [["loves_concept_overall", 1]]}
+{"id": "369ba259-48b1-49bb-8763-26d9c0e02763", "en": "If I don't have money, how many days can I use?", "lang": "th", "f": [["credit_system_pricing", -1]]}
+{"id": "8286a443-6eb9-4eb8-ad47-ba8e5f45f5b2", "en": "The APP is good, working perfectly compared to the site on mobile. Nothing to complain about, super recommend", "lang": "pt", "f": [["app_vs_web_parity", 1], ["recommends_to_others", 1]]}
+{"id": "b1816ac7-49ed-4c3a-827d-e057b329beab", "en": "Video quality low", "lang": "en", "f": [["video_generation_quality", -1]]}
+{"id": "3d165570-590f-45de-b7ad-bbc2cdbc4bd4", "en": "very nice", "lang": "en", "f": []}
+{"id": "b553550e-70ad-4c1a-a570-c574914003b2", "en": "Loss if you don't download this app, for creators easy, try it if you're a creator", "lang": "id", "f": [["for_content_creators", 0], ["not_recommended", -1]]}
+{"id": "4de2c143-8593-4b7e-a8df-a414d49444f6", "en": "the frame-to-frame part is missing, even though that's the most important", "lang": "id", "f": [["frame_to_frame_feature", -1]]}
+{"id": "553ec04f-3465-43b7-ac2d-bfc57c88b4d6", "en": "This is a next-level creative app for AI creators. Its smooth interface, powerful AI video generation, cinematic scene creation and fast rendering set it apart from other AI apps. Special: it's easy for beginners and pros. Mobile-desktop sync, real-time notifications, advanced editing tools make content creation very easy. Although it's still Beta.", "lang": "hi", "f": [["ui_ux_design", 1], ["video_generation_quality", 1], ["performance_speed", 1], ["for_content_creators", 1], ["beta_patience", 0], ["competes_with_other_ai", 0]]}
+{"id": "b28f7385-42bf-498b-b9ac-0545186d7197", "en": "Defective, can't set start frame and end frame yet", "lang": "id", "f": [["frame_to_frame_feature", -1]]}
+{"id": "78c00428-90e6-43e6-af1d-bb860ce45ea0", "en": "good and fast", "lang": "en", "f": [["performance_speed", 1]]}
+{"id": "8656252f-e8ba-40c6-99a2-73446f2bbb9a", "en": "I liked it a lot, I recommend", "lang": "pt", "f": [["recommends_to_others", 1]]}
+{"id": "03ad05f3-471f-4ff2-9b54-40647ba8080f", "en": "Google Flow... pocket-sized! All the power of desktop Flow with minimal footprint to take always with you and create on the move!", "lang": "it", "f": [["app_vs_web_parity", 1], ["finally_mobile_companion", 1]]}
+{"id": "0b94da9d-c941-403a-91e6-e639efdd6e2a", "en": "Result doesn't meet expectations, dialog text is still there, different language, messed up, how to top up points", "lang": "id", "f": [["prompt_following", -1], ["credit_system_pricing", 0]]}
+{"id": "7e5c5310-d47a-46da-bbdc-c958f943a8b6", "en": "yesterday's version was better", "lang": "id", "f": [["nostalgia_for_old_version", -1]]}
+{"id": "d8c6914a-b600-4053-9e36-fc13978178f5", "en": "Google Flow Beta is amazing! Smooth interface, easy to use, and very helpful features. Great experience so far, excited to see more updates in the future. Keep it up!", "lang": "en", "f": [["ui_ux_design", 1]]}
+{"id": "f2fee503-3f9c-4754-a471-da4234df854a", "en": "more of the same, 35 thousand other apps have done this", "lang": "es", "f": [["competes_with_other_ai", 0]]}
+{"id": "aee157ab-6722-4da5-a37a-06ac2f33c91f", "en": "I thought it was very cool", "lang": "pt", "f": []}
+{"id": "4f47c43b-1850-4891-b460-c8693b11187e", "en": "Want improvement", "lang": "th", "f": []}
+{"id": "c767dbbc-4b2c-4149-a75e-0df84a7b63a8", "en": "It has potential if it knew better what to block or not. Simple things prevented me from doing a lot", "lang": "pt", "f": [["content_moderation", -1]]}
+{"id": "66363aa7-a90a-43a9-b1fa-7d385cae8815", "en": "the best I found", "lang": "es", "f": []}
+{"id": "d692fbf4-748c-462d-b952-01c12b69c200", "en": "dude, it's impossible to use this thing on mobile. They could leave it like the site.", "lang": "pt", "f": [["app_vs_web_parity", -1], ["ui_ux_design", -1]]}
+{"id": "15f5bc07-8bae-4ef2-8f69-05a31f81750b", "en": "Very cool app.", "lang": "pt", "f": []}
+{"id": "94397473-16df-4a5f-8c1d-06e704d8a673", "en": "This is simply too convenient. It's much more user-friendly than the website", "lang": "zh", "f": [["app_vs_web_parity", 1], ["ui_ux_design", 1]]}
+{"id": "6f1f82e1-e1ed-457f-ab21-e9a7048c95dd", "en": "Already giving all 5 stars to Google Flow, I use nano banana a lot, the best image generator on the market", "lang": "pt", "f": [["model_selection", 1], ["image_generation_quality", 1]]}
+{"id": "6f9756cb-b5e5-45d9-a602-df0668623592", "en": "It doesn't get any better than that.", "lang": "en", "f": []}
+{"id": "c9004230-ce32-49e5-87a9-a32fb5c87df0", "en": "There is no extend option in the app", "lang": "en", "f": [["extend_video_feature", -1]]}
+{"id": "20645e0a-d91d-42bd-84da-f2b977f2bd2f", "en": "Great UI. For now works well.", "lang": "en", "f": [["ui_ux_design", 1]]}
+{"id": "70df744b-18db-4c81-bbdf-e1f755932e03", "en": "very good", "lang": "pt", "f": []}
+{"id": "62067616-0815-4126-8ccc-d73c0cb44228", "en": "Web version's interface is more friendly. Could be made similar to website. From features perspective, the website version is easier to operate.", "lang": "id", "f": [["ui_ux_design", -1], ["app_vs_web_parity", -1]]}
+{"id": "b98bf933-0b94-4ef6-bde2-7f569b727362", "en": "Unlimited image generator AI for free by Google.", "lang": "pt", "f": [["image_generation_quality", 1], ["credit_system_pricing", 1]]}
+{"id": "95c9259d-aaf2-4cc5-9e39-17d9eb76a13e", "en": "very nice application", "lang": "es", "f": []}
+{"id": "f6b9372e-7b92-4562-be3a-0307e9e874ae", "en": "best", "lang": "ms", "f": []}
+{"id": "02e7ebfe-9e85-417f-ba93-cc17925a5828", "en": "amazing I was wondering when it will get its own app but still it lacks the features that the web page has, I hope that improves", "lang": "en", "f": [["app_vs_web_parity", -1]]}
+{"id": "f4b5b721-07aa-4974-bc43-8a9340496a04", "en": "Not the same as Flow on web. When downloading image quality decreases, even worse than Gemini. Please fix", "lang": "id", "f": [["app_vs_web_parity", -1], ["download_resolution", -1], ["image_generation_quality", -1], ["competes_with_other_ai", 0]]}
+{"id": "893f9e4a-2c97-46f4-83db-481b258fc3d8", "en": "can't extend the first generated video, can't download the video, always failed to download media, but browser works fine", "lang": "en", "f": [["extend_video_feature", -1], ["download_export", -1], ["app_vs_web_parity", -1]]}
+{"id": "069bea15-abb6-4c6e-aa95-4291b9e7ab2c", "en": "I have been using this app since day one, even the free version of it is very flexible", "lang": "en", "f": [["credit_system_pricing", 1]]}
+{"id": "fd960781-5b74-4f9f-ad89-2d004b5c097f", "en": "I love it", "lang": "es", "f": [["loves_concept_overall", 1]]}
+{"id": "ef77738a-30f9-4845-b945-4a15dc8b711a", "en": "Nice update but should consider fixing the expand and fixed download", "lang": "en", "f": [["extend_video_feature", -1], ["download_export", -1]]}
+{"id": "f7c66121-5e07-4138-8938-564e342a933f", "en": "good!!!", "lang": "id", "f": []}
+{"id": "366d3e9b-80bf-4ebf-9918-133f1236a24f", "en": "good job, incredible details in video generator", "lang": "en", "f": [["video_generation_quality", 1], ["loves_concept_overall", 1]]}
+{"id": "652d6237-950d-4f80-ba35-1653a15f00db", "en": "Nothing working in Flow, no tool is recognizing the sent elements. Videos come with absurd montages of things that have nothing to do with the prompt. But it keeps consuming credits normally even with wrong videos.", "lang": "pt", "f": [["prompt_following", -1], ["character_consistency", -1], ["credit_system_pricing", -1], ["crashes_errors", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "43245575-dcac-41d7-a9c1-f0d93334b307", "en": "Google is always the best", "lang": "ar", "f": []}
+{"id": "e5be3fb3-8547-45be-9a77-346c38965fb6", "en": "This app is not generating video from the picture.", "lang": "en", "f": [["video_generation_quality", -1], ["character_consistency", -1]]}
+{"id": "bb682ee7-4728-446a-b98c-32863bc1e153", "en": "great app!", "lang": "en", "f": []}
+{"id": "8fbfb705-875d-4385-8c69-071f0d5c2330", "en": "few credits, good video quality, a good app, but not great", "lang": "pt", "f": [["credit_system_pricing", -1], ["video_generation_quality", 1]]}
+{"id": "2fdcd83d-8be6-4571-a2b2-e36a548de72a", "en": "where is video making option?", "lang": "en", "f": [["video_generation_quality", -1]]}
+{"id": "995e307b-a997-4a7d-98e4-cf20f390c2f3", "en": "one of the best app to generate images, but please remove watermark from your videos please", "lang": "en", "f": [["image_generation_quality", 1], ["watermark", -1]]}
+{"id": "b04b7872-8394-410f-8c30-584e8ccadbef", "en": "first!! thanks, and I love this app...", "lang": "id", "f": [["loves_concept_overall", 1]]}
+{"id": "fc7bcda0-f37c-47e2-a096-046b8b3da086", "en": "A very excellent app; it offers a free trial first, and then you need to subscribe to Google AI Plus. It's essentially a replica of Gemini's video creation feature.", "lang": "ar", "f": [["credit_system_pricing", 0], ["wants_free_tier", 0]]}
+{"id": "b0fddf88-1ed3-44f5-bbd3-199129f9f5ac", "en": "too slow to load. previous version was best", "lang": "en", "f": [["performance_speed", -1], ["nostalgia_for_old_version", -1]]}
+{"id": "62287050-b658-4b9c-ba80-6960faf3b5ab", "en": "I can't open my flow AI through Google again why?? what should I do?", "lang": "en", "f": [["crashes_errors", -1], ["login_authentication", -1]]}
+{"id": "32762c00-a8b6-4633-ba73-cf10e8b99806", "en": "Yesterday, the app was incredible. today, I have a lot of crashes, errors, and an incomplete interface", "lang": "en", "f": [["crashes_errors", -1], ["ui_ux_design", -1]]}
+{"id": "0af8aca5-7597-49ed-b3d4-543adc9fedcc", "en": "It has potential to improve, I can create the videos, but the AI totally changes the image model, images and drawing are more realistic, which was not what I wanted. The site could come back", "lang": "pt", "f": [["character_consistency", -1], ["app_vs_web_parity", -1]]}
+{"id": "a564c34f-77ec-42db-95c5-5ac2a8dd3218", "en": "10/10 Awesome App", "lang": "en", "f": [["loves_concept_overall", 1]]}
+{"id": "40060b5a-80b1-42b0-b8d7-c1fc5296b137", "en": "Under testing", "lang": "ar", "f": []}
+{"id": "172591e5-98ef-4b4e-bb89-f5bc0b135dd3", "en": "Need to fix several bugs, I had to restart my phone because the app simply froze", "lang": "pt", "f": [["crashes_errors", -1]]}
+{"id": "9d6d3a6a-b36c-4e00-8670-eb8d0f7a07ff", "en": "very cool and it always does what I want", "lang": "ru", "f": [["prompt_following", 1]]}
+{"id": "ddc8139b-50e8-4738-a8a8-a389d01063a4", "en": "Good", "lang": "en", "f": []}
+{"id": "12c6a0f7-d10b-44ea-97c4-113a0e13f701", "en": "Full of bugs, not functional, crashing all the time", "lang": "en", "f": [["crashes_errors", -1]]}
+{"id": "37966a9e-fd7b-410a-aa23-1f0cf4b102dd", "en": "There's no option to add image", "lang": "ar", "f": []}
+{"id": "2c09a588-a4c0-4a52-b033-f9ee37b46d7a", "en": "Web version can generate photo to video matching the reference photo. This app version has uploaded the reference photo, but everything changes totally, instead of being good it's a mess, the result is unclear", "lang": "id", "f": [["app_vs_web_parity", -1], ["character_consistency", -1]]}
+{"id": "c471a185-5a20-4edd-8a9b-a5de7638fdc0", "en": "There should be a button to download 2k or 1k resolution image", "lang": "en", "f": [["download_resolution", -1]]}
+{"id": "913e41f8-6c24-4570-91cf-dcb3ec30d300", "en": "MashaAllah - I always wait for this app - Finally get. Thanks", "lang": "en", "f": []}
+{"id": "f8b35f9f-4ddb-4e44-9a1d-0b2a8266733c", "en": "where is the frame-to-frame feature?", "lang": "id", "f": [["frame_to_frame_feature", -1]]}
+{"id": "aa93a44e-a928-4701-ace4-b50b4db249af", "en": "can't make video", "lang": "id", "f": [["video_generation_quality", -1], ["crashes_errors", -1]]}
+{"id": "0444525a-eb8b-483c-8a9f-1a6e2e2b01f6", "en": "Nice kind of, but needs more improvement", "lang": "en", "f": []}
+{"id": "e796270f-8e5f-4f31-848a-47ba49c30496", "en": "it's will be best and easy to use if this app is available for my country", "lang": "en", "f": [["regional_availability", -1]]}
+{"id": "40271344-4d7e-4896-ba7a-5b484811b486", "en": "Definitely improved animation, more coherent and stable, but the problem is they eliminated extend to make longer videos and the app doesn't let you convert video frames to images for continuity. If they fixed those two things it would be 10/10.", "lang": "es", "f": [["video_generation_quality", 1], ["extend_video_feature", -1], ["frame_to_frame_feature", -1]]}
+{"id": "b597ec57-18b4-46de-a74c-24d2b5adc77e", "en": "PERFECT!", "lang": "pt", "f": [["loves_concept_overall", 1]]}
+{"id": "fdb46b7b-8599-4358-846b-07edc8e656e7", "en": "I can't choose between video models i.e. lite, fast, quality etc.", "lang": "en", "f": [["model_selection", -1]]}
+{"id": "cb77ea65-a26f-4061-871a-647d1f0fa1ba", "en": "the browser version is better at providing output.", "lang": "en", "f": [["app_vs_web_parity", -1]]}
+{"id": "6670cdcb-beda-4652-b117-55c9995c3df3", "en": "What happened, why was the start frame video tool removed in google flow", "lang": "id", "f": [["frame_to_frame_feature", -1]]}
+{"id": "7d5d01d1-6884-4a2c-92d3-5017aae8d34f", "en": "Can't generate any more video, always has problems and video is canceled. Fix this, the app had a lot of quality but lately, even the version used in Google wasn't working", "lang": "pt", "f": [["crashes_errors", -1], ["video_generation_quality", -1]]}
+{"id": "a7828258-0570-4cd2-87f8-208f91f8c8ee", "en": "It should only deduct credits from approved projects, because sometimes the video doesn't come out as planned due to platform error and you lose credits that aren't cheap", "lang": "pt", "f": [["credit_system_pricing", -1], ["crashes_errors", -1], ["wasted_credits_on_failures", -1]]}
+{"id": "c2e2b7ce-12da-42a5-a537-496c5acb8a27", "en": "top", "lang": "pt", "f": []}
+{"id": "309dab82-c76d-447f-81ea-14d3f36cf918", "en": "This is smooth and easy to use than the one on chrome.", "lang": "en", "f": [["app_vs_web_parity", 1], ["ui_ux_design", 1]]}
+{"id": "46754dfa-c918-47c0-9a29-ff9c598b2469", "en": "video changes a lot from the original", "lang": "ms", "f": [["character_consistency", -1]]}
+{"id": "fcf7b582-f6c4-484b-80ce-e6cd4e57a26f", "en": "nice", "lang": "bg", "f": []}
+{"id": "49a0e966-5932-44c7-97a8-f35481c62021", "en": "not good. error. Not as expected", "lang": "id", "f": [["crashes_errors", -1], ["dislikes_concept_overall", -1]]}
+{"id": "7784f51f-2170-46fd-ada3-f3e0bae1bb51", "en": "so happy to have flow as an app", "lang": "en", "f": [["finally_mobile_companion", 1]]}
+{"id": "426973db-6603-4a24-8d1e-a4d0066ed8df", "en": "my first review Google flow. the app has great animation and legendary video or photos generate the reality and best. Google flow is a very beautiful and best AI tool and best animation video and picture created. thank you Google.", "lang": "en", "f": [["video_generation_quality", 1], ["image_generation_quality", 1]]}
+{"id": "a70c48b8-0045-4bc9-8323-69393b19644c", "en": "Poor quality on both Veo 3 and Banana, not as good as the web version of Google Labs. Unfortunately, the web version is no longer available.", "lang": "id", "f": [["model_selection", -1], ["video_generation_quality", -1], ["app_vs_web_parity", -1]]}
+{"id": "dcf07081-241d-45f6-98de-e8ce77c2ba86", "en": "finally the application is released", "lang": "fr", "f": [["finally_mobile_companion", 1]]}
+{"id": "a01fa91c-ea7c-4574-ac00-061626283e44", "en": "I have been waiting for the app for a long time. Lacks the ability to customize projects for convenient sorting. Maybe by folders somehow. Also please reduce censorship policy on public domain artistic works", "lang": "uk", "f": [["content_moderation", -1], ["finally_mobile_companion", 1]]}
+{"id": "0d2758eb-e979-4a75-9f5a-b1c3d94b9311", "en": "great", "lang": "ms", "f": []}
+{"id": "ec4d6536-93f5-4c65-b789-a6a92382d782", "en": "I can't even sign in using my Google account.", "lang": "en", "f": [["login_authentication", -1]]}
+{"id": "eaca1c40-ecc0-4520-a770-7e5118e4c1cb", "en": "Please add the same features as Whisk AI in this app, with subject, scene, style options the same as Whisk AI", "lang": "hi", "f": [["ingredients_feature", -1]]}
+{"id": "7c4ac33b-0b9d-47fe-9c40-48cc45d7ca89", "en": "App is too poor, can't upload multiple images at once, can't see image names, very inconvenient and slow. I use phone, operations on web are faster and more convenient than this app. I often upload multiple images at once to reference for multiple videos (app only uploads one at a time, exhausting). I see image names (numbered) faster than identifying images (app doesn't show image names). App forces me to do work that wasn't needed on web.", "lang": "vi", "f": [["ui_ux_design", -1], ["performance_speed", -1], ["app_vs_web_parity", -1]]}
+{"id": "ba74850e-4918-48e1-93a8-36e65a179c61", "en": "This is just an outdated version of the web UI. There are no additional aspect ratio options available for image generation. At least it's here, after so long!", "lang": "en", "f": [["app_vs_web_parity", -1], ["ui_ux_design", -1]]}
+{"id": "78289dfd-5988-41be-8fd4-323175508bf1", "en": "Finally they made an app, very happy", "lang": "th", "f": [["finally_mobile_companion", 1]]}
+{"id": "11d50a75-a84c-4be2-9613-f5e061702286", "en": "simply horrible image generation, before was perfect, now it's trash and the Flow site doesn't work anymore", "lang": "pt", "f": [["image_generation_quality", -1], ["app_vs_web_parity", -1]]}
+{"id": "e7523676-88b8-465d-923e-5232b3cedc5f", "en": "Finally Flow app from Gemini Google is released, more features and remains free long-term", "lang": "id", "f": [["credit_system_pricing", 1], ["finally_mobile_companion", 1], ["wants_free_tier", 0]]}
+{"id": "818cd60b-f541-4c39-a5eb-4d71a3c7db14", "en": "Superb experience", "lang": "en", "f": []}
+{"id": "e7804d42-fd2e-4725-b2b0-76236214cdfc", "en": "Liked it, much more practical than using the site", "lang": "pt", "f": [["app_vs_web_parity", 1]]}
+{"id": "cf0b46a3-2d4b-43b3-9c71-e974b6b3d542", "en": "this app was insane", "lang": "en", "f": []}
